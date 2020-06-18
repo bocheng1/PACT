@@ -1,0 +1,2442 @@
+﻿id,rank,training_name,training_type,hours
+1,Patrol Sergeant,Outdoor Rifle Training,Police Training,9
+2,Patrol Sergeant,Advanced Roadside Impaired Driving Enforcement (ARIDE),Police Training,16
+3,Patrol Sergeant,Firearms Training/Qualification,Police Training,1
+4,Patrol Sergeant,Firearms Training/Qualification,Police Training,1
+5,Patrol Sergeant,Firearms Training/Qualification,Police Training,1
+6,Patrol Sergeant,2019 Bloodborne Pathogens ,Police Training,1
+7,Patrol Sergeant,Hazardous Materials 2019,Police Training,1
+8,Patrol Sergeant,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+9,Patrol Sergeant,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+10,Patrol Sergeant,2019 Response to Resistance Scenarios,Police Training,4
+11,Patrol Sergeant,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+12,Patrol Sergeant,2019 Home Made Explosives Recognition,Police Training,1
+13,Patrol Sergeant,2019 ALICE Methodology,Police Training,1
+14,Patrol Sergeant,2019 Community Policing / Problem Solving,Police Training,1
+15,Patrol Sergeant,2019 Below 100,Police Training,1
+16,Patrol Sergeant,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+17,Patrol Sergeant,2019 Employee Asssistance Program,Police Training,1
+18,Patrol Sergeant,2019 52-1 District Court Update ,Police Training,2
+19,Patrol Sergeant,2019 LEIN / MICR / Booking Update,Police Training,2
+20,Patrol Sergeant,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+21,Patrol Sergeant,2019 Accreditation Training,Community Policing,1
+22,Patrol Sergeant,Law Enforcement Response to Domestic Violence,Police Training,8
+23,Patrol Sergeant,Ethical Decision Making and Intervention,Police Training,1
+24,Patrol Sergeant,What the Recreational Marihuana Law Means for Prosecurtors and Law Enforcement on OWI Cases,Police Training,4
+25,Patrol Sergeant,2019 Accreditation Review,Police Training,1
+26,Patrol Sergeant,Michigan State Police Security Awareness Training Level 1,Police Training,1
+27,Patrol Sergeant,Michigan State Police Security Awareness Training Level 2,Police Training,1
+28,Patrol Sergeant,Michigan State Police Security Awareness Training Level 3,Police Training,1
+29,Patrol Sergeant,Veterans Affairs S.A.V.E Training,Police Training,1
+30,Patrol Sergeant,Office of Highway Safety Planning OWI Investigations,Police Training,1
+31,Patrol Sergeant,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+32,Patrol Sergeant,TSC Watchlisting Training,Police Training,1
+33,Patrol Sergeant,19-905 OWI Investigations,Police Training,1
+34,Patrol Sergeant,Rifle Instructor Training & Curriculum Development,Police Training,8
+35,Patrol Sergeant,Outdoor Rifle Training,Police Training,9
+36,Patrol Sergeant,Rifle Training and Qualification,Police Training,8
+37,Patrol Sergeant,ILEETA Training Conference,Police Training,54
+38,Patrol Sergeant,Advanced Roadside Impaired Driving Enforcement (ARIDE),Police Training,16
+39,Patrol Sergeant,Firearms Training/Qualification,Police Training,1
+40,Patrol Sergeant,Firearms Training/Qualification,Police Training,1
+41,Patrol Sergeant,Firearms Training/Qualification,Police Training,1
+42,Patrol Sergeant,Firearms Training/Qualification,Police Training,1
+43,Patrol Sergeant,Firearms Training/Qualification,Police Training,1
+44,Patrol Sergeant,Firearms Training/Qualification,Police Training,1
+45,Patrol Sergeant,2019 Bloodborne Pathogens ,Police Training,1
+46,Patrol Sergeant,Hazardous Materials 2019,Police Training,1
+47,Patrol Sergeant,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+48,Patrol Sergeant,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+49,Patrol Sergeant,2019 Response to Resistance Scenarios,Police Training,4
+50,Patrol Sergeant,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+51,Patrol Sergeant,2019 Home Made Explosives Recognition,Police Training,1
+52,Patrol Sergeant,2019 ALICE Methodology,Police Training,1
+53,Patrol Sergeant,2019 Community Policing / Problem Solving,Police Training,1
+54,Patrol Sergeant,2019 Below 100,Police Training,1
+55,Patrol Sergeant,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+56,Patrol Sergeant,2019 Employee Asssistance Program,Police Training,1
+57,Patrol Sergeant,2019 52-1 District Court Update ,Police Training,2
+58,Patrol Sergeant,2019 LEIN / MICR / Booking Update,Police Training,2
+59,Patrol Sergeant,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+60,Patrol Sergeant,Ethical Decision Making and Intervention,Police Training,1
+61,Patrol Sergeant,2019 Accreditation Review,Police Training,1
+62,Patrol Sergeant,Michigan State Police Security Awareness Training Level 1,Police Training,1
+63,Patrol Sergeant,Michigan State Police Security Awareness Training Level 2,Police Training,1
+64,Patrol Sergeant,Veterans Affairs S.A.V.E Training,Police Training,1
+65,Patrol Sergeant,Office of Highway Safety Planning OWI Investigations,Police Training,1
+66,Patrol Sergeant,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+67,Patrol Sergeant,TSC Watchlisting Training,Police Training,1
+68,Patrol Sergeant,19-905 OWI Investigations,Police Training,1
+69,Patrol Sergeant,Response to Resistance Annual Cadre Meeting,Police Training,8
+70,Patrol Sergeant,2020 Community Policing and Problem Solving,Police Training,1
+71,Patrol Officer,Rifle Training and Qualification,Police Training,8
+72,Patrol Officer,Rifle Training and Qualification,Police Training,8
+73,Patrol Officer,Firearms Training/Qualification,Police Training,1
+74,Patrol Officer,Firearms Training/Qualification,Police Training,1
+75,Patrol Officer,Firearms Training/Qualification,Police Training,1
+76,Patrol Officer,Firearms Training/Qualification,Police Training,1
+77,Patrol Officer,Emergency Vehicle Operations (EVO),Police Training,8
+78,Patrol Officer,Michigan Association of Hostage Negotiators Confrence,Police Training,16
+79,Patrol Officer,2019 Bloodborne Pathogens ,Police Training,1
+80,Patrol Officer,Hazardous Materials 2019,Police Training,1
+81,Patrol Officer,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+82,Patrol Officer,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+83,Patrol Officer,2019 Response to Resistance Scenarios,Police Training,4
+84,Patrol Officer,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+85,Patrol Officer,2019 Home Made Explosives Recognition,Police Training,1
+86,Patrol Officer,2019 ALICE Methodology,Police Training,1
+87,Patrol Officer,2019 Community Policing / Problem Solving,Police Training,1
+88,Patrol Officer,2019 Below 100,Police Training,1
+89,Patrol Officer,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+90,Patrol Officer,2019 Employee Asssistance Program,Police Training,1
+91,Patrol Officer,2019 52-1 District Court Update ,Police Training,2
+92,Patrol Officer,2019 LEIN / MICR / Booking Update,Police Training,2
+93,Patrol Officer,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+94,Patrol Officer,2019 Accreditation Training,Community Policing,1
+95,Patrol Officer,Ethical Decision Making and Intervention,Police Training,1
+96,Patrol Officer,2019 Accreditation Review,Police Training,1
+97,Patrol Officer,Michigan State Police Security Awareness Training Level 1,Police Training,1
+98,Patrol Officer,Michigan State Police Security Awareness Training Level 2,Police Training,1
+99,Patrol Officer,Michigan State Police Security Awareness Training Level 3,Police Training,1
+100,Patrol Officer,Individual and Group Crisis Intervention Train the Trainer,Police Training,24
+101,Patrol Officer,FBI Crisis Negotiation,Police Training,24
+102,Patrol Officer,Veterans Affairs S.A.V.E Training,Police Training,1
+103,Patrol Officer,Office of Highway Safety Planning OWI Investigations,Police Training,1
+104,Patrol Officer,Survive and Thrive Protecting You and Your Fellow Officers,Police Training,18
+105,Patrol Officer,TSC Watchlisting Training,Police Training,1
+106,Patrol Officer,Michigan Crisis Intervention Training Conference ,Police Training,16
+107,Patrol Officer,19-905 OWI Investigations,Police Training,1
+108,Patrol Officer,Rifle Training and Qualification,Police Training,8
+109,Patrol Officer,Rifle Training and Qualification,Police Training,8
+110,Patrol Officer,Advanced Roadside Impaired Driving Enforcement (ARIDE),Police Training,16
+111,Patrol Officer,Firearms Training/Qualification,Police Training,1
+112,Patrol Officer,Firearms Training/Qualification,Police Training,1
+113,Patrol Officer,Firearms Training/Qualification,Police Training,1
+114,Patrol Officer,Fair and Impartial Policing - Train the Trainer,Police Training,27
+115,Patrol Officer,Emergency Vehicle Operations (EVO),Police Training,8
+116,Patrol Officer,2019 Bloodborne Pathogens ,Police Training,1
+117,Patrol Officer,Hazardous Materials 2019,Police Training,1
+118,Patrol Officer,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+119,Patrol Officer,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+120,Patrol Officer,2019 Response to Resistance Scenarios,Police Training,4
+121,Patrol Officer,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+122,Patrol Officer,2019 Home Made Explosives Recognition,Police Training,1
+123,Patrol Officer,2019 ALICE Methodology,Police Training,1
+124,Patrol Officer,2019 Community Policing / Problem Solving,Police Training,1
+125,Patrol Officer,2019 Below 100,Police Training,1
+126,Patrol Officer,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+127,Patrol Officer,2019 Employee Asssistance Program,Police Training,1
+128,Patrol Officer,2019 52-1 District Court Update ,Police Training,2
+129,Patrol Officer,2019 LEIN / MICR / Booking Update,Police Training,2
+130,Patrol Officer,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+131,Patrol Officer,Ethical Decision Making and Intervention,Police Training,1
+132,Patrol Officer,2019 Accreditation Review,Police Training,1
+133,Patrol Officer,Michigan State Police Security Awareness Training Level 1,Police Training,1
+134,Patrol Officer,Michigan State Police Security Awareness Training Level 2,Police Training,1
+135,Patrol Officer,Michigan State Police Security Awareness Training Level 3,Police Training,1
+136,Patrol Officer,Veterans Affairs S.A.V.E Training,Police Training,1
+137,Patrol Officer,Office of Highway Safety Planning OWI Investigations,Police Training,1
+138,Patrol Officer,MELOA Fourth Annual National Diversity Training Conference,Police Training,16
+139,Patrol Officer,TSC Watchlisting Training,Police Training,1
+140,Patrol Officer,19-905 OWI Investigations,Police Training,1
+141,Patrol Officer,Rifle Training and Qualification,Police Training,8
+142,Patrol Officer,Rifle Training and Qualification,Police Training,8
+143,Patrol Officer,Michigan Traffic Safety Summit,Police Training,24
+144,Patrol Officer,Firearms Training/Qualification,Police Training,1
+145,Patrol Officer,Firearms Training/Qualification,Police Training,1
+146,Patrol Officer,Fair and Impartial Policing - Train the Trainer,Police Training,27
+147,Patrol Officer,Emergency Vehicle Operations (EVO),Police Training,8
+148,Patrol Officer,2019 Bloodborne Pathogens ,Police Training,1
+149,Patrol Officer,Hazardous Materials 2019,Police Training,1
+150,Patrol Officer,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+151,Patrol Officer,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+152,Patrol Officer,2019 Response to Resistance Scenarios,Police Training,4
+153,Patrol Officer,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+154,Patrol Officer,2019 Home Made Explosives Recognition,Police Training,1
+155,Patrol Officer,2019 ALICE Methodology,Police Training,1
+156,Patrol Officer,2019 Community Policing / Problem Solving,Police Training,1
+157,Patrol Officer,2019 Below 100,Police Training,1
+158,Patrol Officer,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+159,Patrol Officer,2019 Employee Asssistance Program,Police Training,1
+160,Patrol Officer,2019 52-1 District Court Update ,Police Training,2
+161,Patrol Officer,2019 LEIN / MICR / Booking Update,Police Training,2
+162,Patrol Officer,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+163,Patrol Officer,Ethical Decision Making and Intervention,Police Training,1
+164,Patrol Officer,2019 Accreditation Review,Police Training,1
+165,Patrol Officer,Michigan State Police Security Awareness Training Level 1,Police Training,1
+166,Patrol Officer,Michigan State Police Security Awareness Training Level 2,Police Training,1
+167,Patrol Officer,Michigan State Police Security Awareness Training Level 3,Police Training,1
+168,Patrol Officer,EVO Police Vehicle Operation - Instructor,Police Training,40
+169,Patrol Officer,Veterans Affairs S.A.V.E Training,Police Training,1
+170,Patrol Officer,Office of Highway Safety Planning OWI Investigations,Police Training,1
+171,Patrol Officer,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+172,Patrol Officer,MELOA Fourth Annual National Diversity Training Conference,Police Training,16
+173,Patrol Officer,TSC Watchlisting Training,Police Training,1
+174,Patrol Officer,19-905 OWI Investigations,Police Training,1
+175,Patrol Officer,Rifle Instructor Training & Curriculum Development,Police Training,8
+176,Patrol Officer,Outdoor Rifle Training,Police Training,9
+177,Patrol Officer,Outdoor Rifle Training,Police Training,9
+178,Patrol Officer,Sig Sauer Rifle Training,Police Training,8
+179,Patrol Officer,Sig Sauer Rifle Training,Police Training,8
+180,Patrol Officer,Sig Sauer Rifle Training,Police Training,8
+181,Patrol Officer,Rifle Training and Qualification,Police Training,8
+182,Patrol Officer,Rifle Training and Qualification,Police Training,8
+183,Patrol Officer,Advanced Roadside Impaired Driving Enforcement (ARIDE),Police Training,16
+184,Patrol Officer,Firearms Training/Qualification,Police Training,1
+185,Patrol Officer,Firearms Training/Qualification,Police Training,1
+186,Patrol Officer,Firearms Training/Qualification,Police Training,1
+187,Patrol Officer,Firearms Training/Qualification,Police Training,1
+188,Patrol Officer,Firearms Training/Qualification,Police Training,1
+189,Patrol Officer,UTM Instructor Certification,Police Training,4
+190,Patrol Officer,2019 Bloodborne Pathogens ,Police Training,1
+191,Patrol Officer,Hazardous Materials 2019,Police Training,1
+192,Patrol Officer,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+193,Patrol Officer,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+194,Patrol Officer,2019 Response to Resistance Scenarios,Police Training,4
+195,Patrol Officer,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+196,Patrol Officer,2019 Home Made Explosives Recognition,Police Training,1
+197,Patrol Officer,2019 ALICE Methodology,Police Training,1
+198,Patrol Officer,2019 Community Policing / Problem Solving,Police Training,1
+199,Patrol Officer,2019 Below 100,Police Training,1
+200,Patrol Officer,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+201,Patrol Officer,2019 Employee Asssistance Program,Police Training,1
+202,Patrol Officer,2019 52-1 District Court Update ,Police Training,2
+203,Patrol Officer,2019 LEIN / MICR / Booking Update,Police Training,2
+204,Patrol Officer,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+205,Patrol Officer,Ethical Decision Making and Intervention,Police Training,1
+206,Patrol Officer,2019 Accreditation Review,Police Training,1
+207,Patrol Officer,Michigan State Police Security Awareness Training Level 1,Police Training,1
+208,Patrol Officer,Michigan State Police Security Awareness Training Level 2,Police Training,1
+209,Patrol Officer,Michigan State Police Security Awareness Training Level 3,Police Training,1
+210,Patrol Officer,Gracie Survival Tactics - Instructor,Police Training,40
+211,Patrol Officer,Veterans Affairs S.A.V.E Training,Police Training,1
+212,Patrol Officer,MILO Simulator Training,Police Training,24
+213,Patrol Officer,Office of Highway Safety Planning OWI Investigations,Police Training,1
+214,Patrol Officer,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+215,Patrol Officer,TSC Watchlisting Training,Police Training,1
+216,Patrol Officer,19-905 OWI Investigations,Police Training,1
+217,Patrol Officer,Response to Resistance Annual Cadre Meeting,Police Training,8
+218,Lieutenant,Police Mountain Bike Training,Police Training,8
+219,Lieutenant,EMU School of Police Staff and Command,Police Training,36
+220,Lieutenant,Firearms Training/Qualification,Police Training,1
+221,Lieutenant,Firearms Training/Qualification,Police Training,1
+222,Lieutenant,Firearms Training/Qualification,Police Training,1
+223,Lieutenant,Firearms Training/Qualification,Police Training,1
+224,Lieutenant,Firearms Training/Qualification,Police Training,1
+225,Lieutenant,2019 Bloodborne Pathogens ,Police Training,1
+226,Lieutenant,Hazardous Materials 2019,Police Training,1
+227,Lieutenant,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+228,Lieutenant,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+229,Lieutenant,2019 Response to Resistance Scenarios,Police Training,4
+230,Lieutenant,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+231,Lieutenant,2019 Home Made Explosives Recognition,Police Training,1
+232,Lieutenant,2019 ALICE Methodology,Police Training,1
+233,Lieutenant,2019 Community Policing / Problem Solving,Police Training,1
+234,Lieutenant,2019 Below 100,Police Training,1
+235,Lieutenant,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+236,Lieutenant,2019 Employee Asssistance Program,Police Training,1
+237,Lieutenant,2019 52-1 District Court Update ,Police Training,2
+238,Lieutenant,2019 LEIN / MICR / Booking Update,Police Training,2
+239,Lieutenant,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+240,Lieutenant,Ethical Decision Making and Intervention,Police Training,1
+241,Lieutenant,2019 Accreditation Review,Police Training,1
+242,Lieutenant,Michigan State Police Security Awareness Training Level 1,Police Training,1
+243,Lieutenant,Michigan State Police Security Awareness Training Level 2,Police Training,1
+244,Lieutenant,Michigan State Police Security Awareness Training Level 3,Police Training,1
+245,Lieutenant,Veterans Affairs S.A.V.E Training,Police Training,1
+246,Lieutenant,Office of Highway Safety Planning OWI Investigations,Police Training,1
+247,Lieutenant,Survive and Thrive Protecting You and Your Fellow Officers,Police Training,18
+248,Lieutenant,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+249,Patrol Officer,Outdoor Rifle Training,Police Training,9
+250,Patrol Officer,Rifle Training and Qualification,Police Training,8
+251,Patrol Officer,Firearms Training/Qualification,Police Training,1
+252,Patrol Officer,Firearms Training/Qualification,Police Training,1
+253,Patrol Officer,Firearms Training/Qualification,Police Training,1
+254,Patrol Officer,Firearms Training/Qualification,Police Training,1
+255,Patrol Officer,Firearms Training/Qualification,Police Training,1
+256,Patrol Officer,Firearms Training/Qualification,Police Training,1
+257,Patrol Officer,Firearms Training/Qualification,Police Training,1
+258,Patrol Officer,2019 Bloodborne Pathogens ,Police Training,1
+259,Patrol Officer,Hazardous Materials 2019,Police Training,1
+260,Patrol Officer,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+261,Patrol Officer,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+262,Patrol Officer,2019 Response to Resistance Scenarios,Police Training,4
+263,Patrol Officer,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+264,Patrol Officer,2019 Home Made Explosives Recognition,Police Training,1
+265,Patrol Officer,2019 ALICE Methodology,Police Training,1
+266,Patrol Officer,2019 Community Policing / Problem Solving,Police Training,1
+267,Patrol Officer,2019 Below 100,Police Training,1
+268,Patrol Officer,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+269,Patrol Officer,2019 Employee Asssistance Program,Police Training,1
+270,Patrol Officer,2019 52-1 District Court Update ,Police Training,2
+271,Patrol Officer,2019 LEIN / MICR / Booking Update,Police Training,2
+272,Patrol Officer,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+273,Patrol Officer,2019 Accreditation Training,Community Policing,1
+274,Patrol Officer,Ethical Decision Making and Intervention,Police Training,1
+275,Patrol Officer,2019 Accreditation Review,Police Training,1
+276,Patrol Officer,Michigan State Police Security Awareness Training Level 1,Police Training,1
+277,Patrol Officer,Michigan State Police Security Awareness Training Level 2,Police Training,1
+278,Patrol Officer,Michigan State Police Security Awareness Training Level 3,Police Training,1
+279,Patrol Officer,Veterans Affairs S.A.V.E Training,Police Training,1
+280,Patrol Officer,Office of Highway Safety Planning OWI Investigations,Police Training,1
+281,Patrol Officer,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+282,Patrol Officer,TSC Watchlisting Training,Police Training,1
+283,Patrol Officer,19-905 OWI Investigations,Police Training,1
+284,Patrol Officer,Taser Training,Police Training,8
+285,Patrol Officer,Firearms Training/Qualification,Police Training,1
+286,Communications Manager,Firearms Training/Qualification,Police Training,1
+287,Communications Manager,2019 Bloodborne Pathogens ,Police Training,1
+288,Communications Manager,Hazardous Materials 2019,Police Training,1
+289,Communications Manager,Ethical Decision Making and Intervention,Police Training,1
+290,Communications Manager,Michigan State Police Security Awareness Training Level 1,Police Training,1
+291,Communications Manager,Michigan State Police Security Awareness Training Level 2,Police Training,1
+292,Communications Manager,Michigan State Police Security Awareness Training Level 3,Police Training,1
+293,Communications Manager,Veterans Affairs S.A.V.E Training,Police Training,1
+294,Communications Manager,TSC Watchlisting Training,Police Training,1
+295,Police Officer,Datamaster DMT,Police Training,2.5
+296,Police Officer,Every Officer a Leader,Police Training,16
+297,Police Officer,Outdoor Rifle Training,Police Training,9
+298,Police Officer,Taser Training,Police Training,8
+299,Police Officer,Rifle Training and Qualification,Police Training,8
+300,Police Officer,Advanced Roadside Impaired Driving Enforcement (ARIDE),Police Training,16
+301,Police Officer,OakTac Active Shooter Response Training,Police Training,16
+302,Police Officer,Firearms Training/Qualification,Police Training,1
+303,Police Officer,Firearms Training/Qualification,Police Training,1
+304,Police Officer,Firearms Training/Qualification,Police Training,1
+305,Police Officer,Firearms Training/Qualification,Police Training,1
+306,Police Officer,Emergency Vehicle Operations (EVO),Police Training,8
+307,Police Officer,MCOLES Active Duty Firearm Standard 2018,Police Training,1
+308,Police Officer,2019 Bloodborne Pathogens ,Police Training,1
+309,Police Officer,Hazardous Materials 2019,Police Training,1
+310,Police Officer,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+311,Police Officer,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+312,Police Officer,2019 Response to Resistance Scenarios,Police Training,4
+313,Police Officer,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+314,Police Officer,2019 Home Made Explosives Recognition,Police Training,1
+315,Police Officer,2019 ALICE Methodology,Police Training,1
+316,Police Officer,2019 Community Policing / Problem Solving,Police Training,1
+317,Police Officer,2019 Below 100,Police Training,1
+318,Police Officer,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+319,Police Officer,2019 Employee Asssistance Program,Police Training,1
+320,Police Officer,2019 52-1 District Court Update ,Police Training,2
+321,Police Officer,2019 LEIN / MICR / Booking Update,Police Training,2
+322,Police Officer,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+323,Police Officer,2019 Accreditation Training,Community Policing,1
+324,Police Officer,Ethical Decision Making and Intervention,Police Training,1
+325,Police Officer,2019 Accreditation Review,Police Training,1
+326,Police Officer,Michigan State Police Security Awareness Training Level 1,Police Training,1
+327,Police Officer,Michigan State Police Security Awareness Training Level 2,Police Training,1
+328,Police Officer,Michigan State Police Security Awareness Training Level 3,Police Training,1
+329,Police Officer,Veterans Affairs S.A.V.E Training,Police Training,1
+330,Police Officer,Office of Highway Safety Planning OWI Investigations,Police Training,1
+331,Police Officer,Leading Without Rank: Leadership for the Line Officer,Police Training,8
+332,Police Officer,TSC Watchlisting Training,Police Training,1
+333,Police Officer,19-905 OWI Investigations,Police Training,1
+334,Police Officer,Datamaster DMT,Police Training,2.5
+335,Police Officer,Outdoor Rifle Training,Police Training,9
+336,Police Officer,Outdoor Rifle Training,Police Training,9
+337,Police Officer,Rifle Training and Qualification,Police Training,8
+338,Police Officer,Advanced Roadside Impaired Driving Enforcement (ARIDE),Police Training,16
+339,Police Officer,OakTac Active Shooter Response Training,Police Training,16
+340,Police Officer,Firearms Training/Qualification,Police Training,1
+341,Police Officer,Firearms Training/Qualification,Police Training,1
+342,Police Officer,Firearms Training/Qualification,Police Training,1
+343,Police Officer,2019 Bloodborne Pathogens ,Police Training,1
+344,Police Officer,Hazardous Materials 2019,Police Training,1
+345,Police Officer,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+346,Police Officer,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+347,Police Officer,2019 Response to Resistance Scenarios,Police Training,4
+348,Police Officer,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+349,Police Officer,2019 Home Made Explosives Recognition,Police Training,1
+350,Police Officer,2019 ALICE Methodology,Police Training,1
+351,Police Officer,2019 Community Policing / Problem Solving,Police Training,1
+352,Police Officer,2019 Below 100,Police Training,1
+353,Police Officer,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+354,Police Officer,2019 Employee Asssistance Program,Police Training,1
+355,Police Officer,2019 52-1 District Court Update ,Police Training,2
+356,Police Officer,2019 LEIN / MICR / Booking Update,Police Training,2
+357,Police Officer,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+358,Police Officer,Ethical Decision Making and Intervention,Police Training,1
+359,Police Officer,2019 Accreditation Review,Police Training,1
+360,Police Officer,Michigan State Police Security Awareness Training Level 1,Police Training,1
+361,Police Officer,Michigan State Police Security Awareness Training Level 2,Police Training,1
+362,Police Officer,Veterans Affairs S.A.V.E Training,Police Training,1
+363,Police Officer,MILO Simulator Training,Police Training,24
+364,Police Officer,Office of Highway Safety Planning OWI Investigations,Police Training,1
+365,Patrol Officer,Rifle Training and Qualification,Police Training,8
+366,Patrol Officer,Advanced Roadside Impaired Driving Enforcement (ARIDE),Police Training,16
+367,Patrol Officer,Firearms Training/Qualification,Police Training,1
+368,Patrol Officer,Firearms Training/Qualification,Police Training,1
+369,Patrol Officer,Firearms Training/Qualification,Police Training,1
+370,Patrol Officer,Firearms Training/Qualification,Police Training,1
+371,Patrol Officer,Emergency Vehicle Operations (EVO),Police Training,8
+372,Patrol Officer,2019 Bloodborne Pathogens ,Police Training,1
+373,Patrol Officer,Hazardous Materials 2019,Police Training,1
+374,Patrol Officer,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+375,Patrol Officer,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+376,Patrol Officer,2019 Response to Resistance Scenarios,Police Training,4
+377,Patrol Officer,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+378,Patrol Officer,2019 Home Made Explosives Recognition,Police Training,1
+379,Patrol Officer,2019 ALICE Methodology,Police Training,1
+380,Patrol Officer,2019 Community Policing / Problem Solving,Police Training,1
+381,Patrol Officer,2019 Below 100,Police Training,1
+382,Patrol Officer,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+383,Patrol Officer,2019 Employee Asssistance Program,Police Training,1
+384,Patrol Officer,2019 52-1 District Court Update ,Police Training,2
+385,Patrol Officer,2019 LEIN / MICR / Booking Update,Police Training,2
+386,Patrol Officer,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+387,Patrol Officer,2019 Accreditation Training,Community Policing,1
+388,Patrol Officer,Ethical Decision Making and Intervention,Police Training,1
+389,Patrol Officer,2019 Accreditation Review,Police Training,1
+390,Patrol Officer,Michigan State Police Security Awareness Training Level 1,Police Training,1
+391,Patrol Officer,Michigan State Police Security Awareness Training Level 2,Police Training,1
+392,Patrol Officer,Michigan State Police Security Awareness Training Level 3,Police Training,1
+393,Patrol Officer,Veterans Affairs S.A.V.E Training,Police Training,1
+394,Patrol Officer,2019 OTOA Conference (Ohio Tactical Officers Association),Police Training,40
+395,Patrol Officer,Office of Highway Safety Planning OWI Investigations,Police Training,1
+396,Patrol Officer,TSC Watchlisting Training,Police Training,1
+397,Patrol Officer,19-905 OWI Investigations,Police Training,1
+398,Cadet,Diversity Training (HR),HR Training,0
+399,Cadet,Customer Service Guarantee Training,HR Training,
+400,Cadet,TSC Watchlisting Training,Police Training,1
+401,Detective,Outdoor Rifle Training,Police Training,9
+402,Detective,Rifle Training and Qualification,Police Training,8
+403,Detective,Rifle Training and Qualification,Police Training,8
+404,Detective,Firearms Training/Qualification,Police Training,1
+405,Detective,Firearms Training/Qualification,Police Training,1
+406,Detective,Emergency Vehicle Operations (EVO),Police Training,8
+407,Detective,2019 Bloodborne Pathogens ,Police Training,1
+408,Detective,Hazardous Materials 2019,Police Training,1
+409,Detective,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+410,Detective,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+411,Detective,2019 Response to Resistance Scenarios,Police Training,4
+412,Detective,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+413,Detective,2019 Home Made Explosives Recognition,Police Training,1
+414,Detective,2019 ALICE Methodology,Police Training,1
+415,Detective,2019 Community Policing / Problem Solving,Police Training,1
+416,Detective,2019 Below 100,Police Training,1
+417,Detective,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+418,Detective,2019 Employee Asssistance Program,Police Training,1
+419,Detective,2019 52-1 District Court Update ,Police Training,2
+420,Detective,2019 LEIN / MICR / Booking Update,Police Training,2
+421,Detective,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+422,Detective,Ethical Decision Making and Intervention,Police Training,1
+423,Detective,2019 Accreditation Review,Police Training,1
+424,Detective,Michigan State Police Security Awareness Training Level 1,Police Training,1
+425,Detective,Michigan State Police Security Awareness Training Level 2,Police Training,1
+426,Detective,Michigan State Police Security Awareness Training Level 3,Police Training,1
+427,Detective,Veterans Affairs S.A.V.E Training,Police Training,1
+428,Detective,INIA Drug and Terrorist Interdiction Conference,Police Training,40
+429,Detective,Office of Highway Safety Planning OWI Investigations,Police Training,1
+430,Detective,TSC Watchlisting Training,Police Training,1
+431,Detective,19-905 OWI Investigations,Police Training,1
+432,"Sergeant, Training and Standards",Rifle Training and Qualification,Police Training,8
+433,"Sergeant, Training and Standards",Rifle Training and Qualification,Police Training,8
+434,"Sergeant, Training and Standards",ILEETA Training Conference,Police Training,54
+435,"Sergeant, Training and Standards",The Michigan Freedom of Information Act (FOIA),Police Training,8
+436,"Sergeant, Training and Standards",South West Oakland SRT Alpena Training Week,Police Training,30
+437,"Sergeant, Training and Standards",Firearms Training/Qualification,Police Training,1
+438,"Sergeant, Training and Standards",Firearms Training/Qualification,Police Training,1
+439,"Sergeant, Training and Standards",Firearms Training/Qualification,Police Training,1
+440,"Sergeant, Training and Standards",Firearms Training/Qualification,Police Training,1
+441,"Sergeant, Training and Standards",Firearms Training/Qualification,Police Training,1
+442,"Sergeant, Training and Standards",Emergency Vehicle Operations (EVO),Police Training,8
+443,"Sergeant, Training and Standards",2019 Bloodborne Pathogens ,Police Training,1
+444,"Sergeant, Training and Standards",Hazardous Materials 2019,Police Training,1
+445,"Sergeant, Training and Standards",2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+446,"Sergeant, Training and Standards",2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+447,"Sergeant, Training and Standards",2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+448,"Sergeant, Training and Standards",2019 Home Made Explosives Recognition,Police Training,1
+449,"Sergeant, Training and Standards",2019 ALICE Methodology,Police Training,1
+450,"Sergeant, Training and Standards",2019 Community Policing / Problem Solving,Police Training,1
+451,"Sergeant, Training and Standards",2019 Below 100,Police Training,1
+452,"Sergeant, Training and Standards",2019 Employee Asssistance Program,Police Training,1
+453,"Sergeant, Training and Standards",2019 52-1 District Court Update ,Police Training,2
+454,"Sergeant, Training and Standards",2019 LEIN / MICR / Booking Update,Police Training,2
+455,"Sergeant, Training and Standards",2019 Resiliance and Self Care for First Repsonders,Police Training,2
+456,"Sergeant, Training and Standards",2019 Resiliance and Self Care for First Repsonders,Police Training,2
+457,"Sergeant, Training and Standards",Ethical Decision Making and Intervention,Police Training,1
+458,"Sergeant, Training and Standards",2019 Accreditation Review,Police Training,1
+459,"Sergeant, Training and Standards",2019 MACP Conference  MLEAC Accreditation Manager Training,Police Training,3
+460,"Sergeant, Training and Standards",Michigan State Police Security Awareness Training Level 1,Police Training,1
+461,"Sergeant, Training and Standards",Michigan State Police Security Awareness Training Level 2,Police Training,1
+462,"Sergeant, Training and Standards",Michigan State Police Security Awareness Training Level 3,Police Training,1
+463,"Sergeant, Training and Standards",Internal Affairs Investigations: Criminal vs. Administrative Investigations,Police Training,1
+464,"Sergeant, Training and Standards",EMERGING LEGAL TRENDS AND LIABILITY MANAGEMENT,Police Training,8
+465,"Sergeant, Training and Standards","CALEA Confrence - Huntsville, AL",Police Training,48
+466,"Sergeant, Training and Standards",Veterans Affairs S.A.V.E Training,Police Training,1
+467,"Sergeant, Training and Standards",Office of Highway Safety Planning OWI Investigations,Police Training,1
+468,"Sergeant, Training and Standards",MCOLES Active Duty Firearm Standard 2019,Police Training,1
+469,"Sergeant, Training and Standards",MACP Fall Accreditation Conference,Police Training,10
+470,"Sergeant, Training and Standards",TSC Watchlisting Training,Police Training,1
+471,"Sergeant, Training and Standards",Evolutionary Leadership,Police Training,8
+472,"Sergeant, Training and Standards",19-905 OWI Investigations,Police Training,1
+473,"Sergeant, Training and Standards",Response to Resistance Annual Cadre Meeting,Police Training,8
+474,"Sergeant, Training and Standards","CLEMIS Training for Investigators, Supervisors, and Records Personnel ",Police Training,2
+475,"Sergeant, Training and Standards",2020 Community Policing and Problem Solving,Police Training,1
+476,"Sergeant, Training and Standards",2020 Community Policing and Problem Solving,Police Training,1
+477,"Sergeant, Training and Standards",2020 Community Policing and Problem Solving,Police Training,1
+478,Patrol Officer,Rifle Training and Qualification,Police Training,8
+479,Patrol Officer,Rifle Training and Qualification,Police Training,8
+480,Patrol Officer,OakTac Active Shooter Response Training,Police Training,16
+481,Patrol Officer,Firearms Training/Qualification,Police Training,1
+482,Patrol Officer,Firearms Training/Qualification,Police Training,1
+483,Patrol Officer,Firearms Training/Qualification,Police Training,1
+484,Patrol Officer,Firearms Training/Qualification,Police Training,1
+485,Patrol Officer,Leaves of Absence Training,HR Training,0
+486,Patrol Officer,Customer Service Guarantee Training,HR Training,
+487,Patrol Officer,Fuel System Training,HR Training,0
+488,Patrol Officer,TSC Watchlisting Training,Police Training,1
+489,Patrol Officer,19-905 OWI Investigations,Police Training,1
+490,Dispatcher,LEIN TAC Basic,Police Training,7
+491,Dispatcher,2019 Bloodborne Pathogens ,Police Training,1
+492,Dispatcher,Hazardous Materials 2019,Police Training,1
+493,Dispatcher,Ethical Decision Making and Intervention,Police Training,1
+494,Dispatcher,Michigan State Police Security Awareness Training Level 1,Police Training,1
+495,Dispatcher,Michigan State Police Security Awareness Training Level 2,Police Training,1
+496,Dispatcher,Michigan State Police Security Awareness Training Level 3,Police Training,1
+497,Dispatcher,First Line Supervision ,Police Training,24
+498,Dispatcher,911 Homicide: Is the Caller the Killer,Police Training,16
+499,Dispatcher,Survive and Thrive Comprehensive Stress Resilience,Police Training,16
+500,Co-op,2019 Bloodborne Pathogens ,Police Training,1
+501,Records Clerk,2019 Bloodborne Pathogens ,Police Training,1
+502,Records Clerk,Hazardous Materials 2019,Police Training,1
+503,Records Clerk,Ethical Decision Making and Intervention,Police Training,1
+504,Records Clerk,Michigan State Police Security Awareness Training Level 1,Police Training,1
+505,Records Clerk,Michigan State Police Security Awareness Training Level 2,Police Training,1
+506,Records Clerk,Michigan State Police Security Awareness Training Level 3,Police Training,1
+507,Records Clerk,LERMA - Firearm Purchase Permits and Prohibitors,Police Training,8
+508,Dispatcher,Emergency Telecommunicator Course (ETC),Police Training,40
+509,Dispatcher,Homeland Security for 911 Professionals,Police Training,8.5
+510,Dispatcher,Understanding Domestic Violence,Police Training,8.5
+511,Dispatcher,911 Ethics and Liability for Dispatchers,Police Training,8
+512,Dispatcher,2019 Bloodborne Pathogens ,Police Training,1
+513,Dispatcher,Hazardous Materials 2019,Police Training,1
+514,Dispatcher,Ethical Decision Making and Intervention,Police Training,1
+515,Dispatcher,Michigan State Police Security Awareness Training Level 1,Police Training,1
+516,Dispatcher,Michigan State Police Security Awareness Training Level 2,Police Training,1
+517,Dispatcher,Veterans Affairs S.A.V.E Training,Police Training,1
+518,Dispatcher,Handling the Despondent and Suicidal Caller,Police Training,8
+519,Dispatcher,Power of Resilience:  How to Beat Dispatcher Burnout,Police Training,8
+520,Patrol Sergeant,Rifle Instructor Training & Curriculum Development,Police Training,8
+521,Patrol Sergeant,Rifle Training and Qualification,Police Training,8
+522,Patrol Sergeant,Basic Non-Destructive Entry,Police Training,45
+523,Patrol Sergeant,Basic Non-Destructive Entry,Police Training,45
+524,Patrol Sergeant,Firearms Training/Qualification,Police Training,1
+525,Patrol Sergeant,Firearms Training/Qualification,Police Training,1
+526,Patrol Sergeant,Firearms Training/Qualification,Police Training,1
+527,Patrol Sergeant,Firearms Training/Qualification,Police Training,1
+528,Patrol Sergeant,Firearms Training/Qualification,Police Training,1
+529,Patrol Sergeant,UTM Instructor Certification,Police Training,4
+530,Patrol Sergeant,Taser X2 Instructor Certification,Police Training,16
+531,Patrol Sergeant,2019 Bloodborne Pathogens ,Police Training,1
+532,Patrol Sergeant,Hazardous Materials 2019,Police Training,1
+533,Patrol Sergeant,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+534,Patrol Sergeant,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+535,Patrol Sergeant,2019 Response to Resistance Scenarios,Police Training,4
+536,Patrol Sergeant,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+537,Patrol Sergeant,2019 Home Made Explosives Recognition,Police Training,1
+538,Patrol Sergeant,2019 ALICE Methodology,Police Training,1
+539,Patrol Sergeant,2019 Community Policing / Problem Solving,Police Training,1
+540,Patrol Sergeant,2019 Below 100,Police Training,1
+541,Patrol Sergeant,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+542,Patrol Sergeant,2019 Employee Asssistance Program,Police Training,1
+543,Patrol Sergeant,2019 52-1 District Court Update ,Police Training,2
+544,Patrol Sergeant,2019 LEIN / MICR / Booking Update,Police Training,2
+545,Patrol Sergeant,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+546,Patrol Sergeant,Ethical Decision Making and Intervention,Police Training,1
+547,Patrol Sergeant,2019 Accreditation Review,Police Training,1
+548,Patrol Sergeant,Michigan State Police Security Awareness Training Level 1,Police Training,1
+549,Patrol Sergeant,Michigan State Police Security Awareness Training Level 2,Police Training,1
+550,Patrol Sergeant,Michigan State Police Security Awareness Training Level 3,Police Training,1
+551,Patrol Sergeant,Gracie Survival Tactics - Instructor,Police Training,40
+552,Patrol Sergeant,Veterans Affairs S.A.V.E Training,Police Training,1
+553,Patrol Sergeant,MILO Simulator Training,Police Training,24
+554,Patrol Sergeant,Office of Highway Safety Planning OWI Investigations,Police Training,1
+555,Patrol Sergeant,TSC Watchlisting Training,Police Training,1
+556,Patrol Sergeant,19-905 OWI Investigations,Police Training,1
+557,Patrol Sergeant,Response to Resistance Annual Cadre Meeting,Police Training,8
+558,Director of Public Safety / Chief of Police,Firearms Training/Qualification,Police Training,1
+559,Director of Public Safety / Chief of Police,Firearms Training/Qualification,Police Training,1
+560,Director of Public Safety / Chief of Police,Firearms Training/Qualification,Police Training,1
+561,Director of Public Safety / Chief of Police,Firearms Training/Qualification,Police Training,1
+562,Director of Public Safety / Chief of Police,Emergency Vehicle Operations (EVO),Police Training,8
+563,Director of Public Safety / Chief of Police,2019 Bloodborne Pathogens ,Police Training,1
+564,Director of Public Safety / Chief of Police,Hazardous Materials 2019,Police Training,1
+565,Director of Public Safety / Chief of Police,Ethical Decision Making and Intervention,Police Training,1
+566,Director of Public Safety / Chief of Police,2019 MACP Conference,Police Training,32
+567,Director of Public Safety / Chief of Police,Michigan State Police Security Awareness Training Level 1,Police Training,1
+568,Director of Public Safety / Chief of Police,Veterans Affairs S.A.V.E Training,Police Training,1
+569,Director of Public Safety / Chief of Police,Office of Highway Safety Planning OWI Investigations,Police Training,1
+570,Director of Public Safety / Chief of Police,"Incident Response to Terrorist Bombings, Prevention and Response to Suicide Bombings",Police Training,8
+571,Director of Public Safety / Chief of Police,TSC Watchlisting Training,Police Training,1
+572,Director of Public Safety / Chief of Police,19-905 OWI Investigations,Police Training,1
+573,Patrol Officer,Exploring the Sexual Offender & Physical Abuser ,Police Training,18
+574,Patrol Officer,Outdoor Rifle Training,Police Training,9
+575,Patrol Officer,Outdoor Rifle Training,Police Training,9
+576,Patrol Officer,Police Mountain Bike Training,Police Training,8
+577,Patrol Officer,Rifle Training and Qualification,Police Training,8
+578,Patrol Officer,Firearms Training/Qualification,Police Training,1
+579,Patrol Officer,Firearms Training/Qualification,Police Training,1
+580,Patrol Officer,Firearms Training/Qualification,Police Training,1
+581,Patrol Officer,Firearms Training/Qualification,Police Training,1
+582,Patrol Officer,Firearms Training/Qualification,Police Training,1
+583,Patrol Officer,Emergency Vehicle Operations (EVO),Police Training,8
+584,Patrol Officer,2019 Bloodborne Pathogens ,Police Training,1
+585,Patrol Officer,Hazardous Materials 2019,Police Training,1
+586,Patrol Officer,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+587,Patrol Officer,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+588,Patrol Officer,2019 Response to Resistance Scenarios,Police Training,4
+589,Patrol Officer,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+590,Patrol Officer,2019 Home Made Explosives Recognition,Police Training,1
+591,Patrol Officer,2019 ALICE Methodology,Police Training,1
+592,Patrol Officer,2019 Community Policing / Problem Solving,Police Training,1
+593,Patrol Officer,2019 Below 100,Police Training,1
+594,Patrol Officer,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+595,Patrol Officer,2019 Employee Asssistance Program,Police Training,1
+596,Patrol Officer,2019 52-1 District Court Update ,Police Training,2
+597,Patrol Officer,2019 LEIN / MICR / Booking Update,Police Training,2
+598,Patrol Officer,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+599,Patrol Officer,Ethical Decision Making and Intervention,Police Training,1
+600,Patrol Officer,2019 Accreditation Review,Police Training,1
+601,Patrol Officer,Michigan State Police Security Awareness Training Level 1,Police Training,1
+602,Patrol Officer,Michigan State Police Security Awareness Training Level 2,Police Training,1
+603,Patrol Officer,Michigan State Police Security Awareness Training Level 3,Police Training,1
+604,Patrol Officer,Veterans Affairs S.A.V.E Training,Police Training,1
+605,Patrol Officer,Crisis Intervention Team (CIT) Training,Police Training,40
+606,Patrol Officer,Office of Highway Safety Planning OWI Investigations,Police Training,1
+607,Patrol Officer,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+608,Patrol Officer,TSC Watchlisting Training,Police Training,1
+609,Patrol Officer,19-905 OWI Investigations,Police Training,1
+610,Patrol Officer,Rifle Instructor Training & Curriculum Development,Police Training,8
+611,Patrol Officer,Outdoor Rifle Training,Police Training,9
+612,Patrol Officer,Rifle Training and Qualification,Police Training,8
+613,Patrol Officer,Firearms Training/Qualification,Police Training,1
+614,Patrol Officer,Firearms Training/Qualification,Police Training,1
+615,Patrol Officer,Firearms Training/Qualification,Police Training,1
+616,Patrol Officer,2019 Bloodborne Pathogens ,Police Training,1
+617,Patrol Officer,Hazardous Materials 2019,Police Training,1
+618,Patrol Officer,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+619,Patrol Officer,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+620,Patrol Officer,2019 Response to Resistance Scenarios,Police Training,4
+621,Patrol Officer,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+622,Patrol Officer,2019 Home Made Explosives Recognition,Police Training,1
+623,Patrol Officer,2019 ALICE Methodology,Police Training,1
+624,Patrol Officer,2019 Community Policing / Problem Solving,Police Training,1
+625,Patrol Officer,2019 Below 100,Police Training,1
+626,Patrol Officer,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+627,Patrol Officer,2019 Employee Asssistance Program,Police Training,1
+628,Patrol Officer,2019 52-1 District Court Update ,Police Training,2
+629,Patrol Officer,2019 LEIN / MICR / Booking Update,Police Training,2
+630,Patrol Officer,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+631,Patrol Officer,Ethical Decision Making and Intervention,Police Training,1
+632,Patrol Officer,2019 Accreditation Review,Police Training,1
+633,Patrol Officer,Michigan State Police Security Awareness Training Level 1,Police Training,1
+634,Patrol Officer,Michigan State Police Security Awareness Training Level 2,Police Training,1
+635,Patrol Officer,Gracie Survival Tactics - Instructor,Police Training,40
+636,Patrol Officer,4th Annual Active Assailant Confrence,Police Training,16
+637,Patrol Officer,Veterans Affairs S.A.V.E Training,Police Training,1
+638,Patrol Officer,MILO Simulator Training,Police Training,24
+639,Patrol Officer,Office of Highway Safety Planning OWI Investigations,Police Training,1
+640,Patrol Officer,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+641,Patrol Officer,TSC Watchlisting Training,Police Training,1
+642,Patrol Officer,19-905 OWI Investigations,Police Training,1
+643,Patrol Officer,Response to Resistance Annual Cadre Meeting,Police Training,8
+644,Detective,Every Officer a Leader,Police Training,16
+645,Detective,Outdoor Rifle Training,Police Training,9
+646,Detective,Outdoor Rifle Training,Police Training,9
+647,Detective,Rifle Training and Qualification,Police Training,8
+648,Detective,South West Oakland SRT Alpena Training Week,Police Training,30
+649,Detective,Firearms Training/Qualification,Police Training,1
+650,Detective,Firearms Training/Qualification,Police Training,1
+651,Detective,Firearms Training/Qualification,Police Training,1
+652,Detective,Emergency Vehicle Operations (EVO),Police Training,8
+653,Detective,2019 Bloodborne Pathogens ,Police Training,1
+654,Detective,Hazardous Materials 2019,Police Training,1
+655,Detective,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+656,Detective,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+657,Detective,2019 Response to Resistance Scenarios,Police Training,4
+658,Detective,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+659,Detective,2019 Home Made Explosives Recognition,Police Training,1
+660,Detective,2019 ALICE Methodology,Police Training,1
+661,Detective,2019 Community Policing / Problem Solving,Police Training,1
+662,Detective,2019 Below 100,Police Training,1
+663,Detective,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+664,Detective,2019 Employee Asssistance Program,Police Training,1
+665,Detective,2019 52-1 District Court Update ,Police Training,2
+666,Detective,2019 LEIN / MICR / Booking Update,Police Training,2
+667,Detective,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+668,Detective,Ethical Decision Making and Intervention,Police Training,1
+669,Detective,2019 Accreditation Review,Police Training,1
+670,Detective,Michigan State Police Security Awareness Training Level 1,Police Training,1
+671,Detective,Michigan State Police Security Awareness Training Level 2,Police Training,1
+672,Detective,Michigan State Police Security Awareness Training Level 3,Police Training,1
+673,Detective,Veterans Affairs S.A.V.E Training,Police Training,1
+674,Detective,Office of Highway Safety Planning OWI Investigations,Police Training,1
+675,Detective,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+676,Detective,TSC Watchlisting Training,Police Training,1
+677,Detective,19-905 OWI Investigations,Police Training,1
+678,Patrol Officer,Datamaster DMT,Police Training,2.5
+679,Patrol Officer,REID Technique of Interview and Interrogation,Police Training,32
+680,Patrol Officer,Every Officer a Leader,Police Training,16
+681,Patrol Officer,Outdoor Rifle Training,Police Training,9
+682,Patrol Officer,Rifle Training and Qualification,Police Training,8
+683,Patrol Officer,OakTac Active Shooter Response Training,Police Training,16
+684,Patrol Officer,Firearms Training/Qualification,Police Training,1
+685,Patrol Officer,Firearms Training/Qualification,Police Training,1
+686,Patrol Officer,Firearms Training/Qualification,Police Training,1
+687,Patrol Officer,Emergency Vehicle Operations (EVO),Police Training,8
+688,Patrol Officer,2019 Bloodborne Pathogens ,Police Training,1
+689,Patrol Officer,Hazardous Materials 2019,Police Training,1
+690,Patrol Officer,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+691,Patrol Officer,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+692,Patrol Officer,2019 Response to Resistance Scenarios,Police Training,4
+693,Patrol Officer,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+694,Patrol Officer,2019 Home Made Explosives Recognition,Police Training,1
+695,Patrol Officer,2019 ALICE Methodology,Police Training,1
+696,Patrol Officer,2019 Community Policing / Problem Solving,Police Training,1
+697,Patrol Officer,2019 Below 100,Police Training,1
+698,Patrol Officer,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+699,Patrol Officer,2019 Employee Asssistance Program,Police Training,1
+700,Patrol Officer,2019 52-1 District Court Update ,Police Training,2
+701,Patrol Officer,2019 LEIN / MICR / Booking Update,Police Training,2
+702,Patrol Officer,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+703,Patrol Officer,2019 Accreditation Training,Community Policing,1
+704,Patrol Officer,Ethical Decision Making and Intervention,Police Training,1
+705,Patrol Officer,2019 Accreditation Review,Police Training,1
+706,Patrol Officer,Michigan State Police Security Awareness Training Level 1,Police Training,1
+707,Patrol Officer,Michigan State Police Security Awareness Training Level 2,Police Training,1
+708,Patrol Officer,Michigan State Police Security Awareness Training Level 3,Police Training,1
+709,Patrol Officer,Veterans Affairs S.A.V.E Training,Police Training,1
+710,Patrol Officer,Office of Highway Safety Planning OWI Investigations,Police Training,1
+711,Patrol Officer,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+712,Patrol Officer,TSC Watchlisting Training,Police Training,1
+713,Patrol Officer,19-905 OWI Investigations,Police Training,1
+714,Assistant Chief of Police,Firearms Training/Qualification,Police Training,1
+715,Assistant Chief of Police,Firearms Training/Qualification,Police Training,1
+716,Assistant Chief of Police,Firearms Training/Qualification,Police Training,1
+717,Assistant Chief of Police,Firearms Training/Qualification,Police Training,1
+718,Assistant Chief of Police,Firearms Training/Qualification,Police Training,1
+719,Assistant Chief of Police,Firearms Training/Qualification,Police Training,1
+720,Assistant Chief of Police,Emergency Vehicle Operations (EVO),Police Training,8
+721,Assistant Chief of Police,2019 Bloodborne Pathogens ,Police Training,1
+722,Assistant Chief of Police,Hazardous Materials 2019,Police Training,1
+723,Assistant Chief of Police,Ethical Decision Making and Intervention,Police Training,1
+724,Assistant Chief of Police,2019 MACP Conference,Police Training,32
+725,Assistant Chief of Police,Michigan State Police Security Awareness Training Level 1,Police Training,1
+726,Assistant Chief of Police,Michigan State Police Security Awareness Training Level 2,Police Training,1
+727,Assistant Chief of Police,Michigan State Police Security Awareness Training Level 3,Police Training,1
+728,Assistant Chief of Police,Veterans Affairs S.A.V.E Training,Police Training,1
+729,Assistant Chief of Police,Office of Highway Safety Planning OWI Investigations,Police Training,1
+730,Assistant Chief of Police,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+731,Assistant Chief of Police,TSC Watchlisting Training,Police Training,1
+732,Assistant Chief of Police,19-905 OWI Investigations,Police Training,1
+733,Cadet,Sexual Harassment Training,HR Training,
+734,Cadet,Diversity Training (HR),HR Training,0
+735,Cadet,Customer Service Guarantee Training,HR Training,
+736,Cadet,Veterans Affairs S.A.V.E Training,Police Training,1
+737,Police Officer,2019 Bloodborne Pathogens ,Police Training,1
+738,Police Officer,Hazardous Materials 2019,Police Training,1
+739,Police Officer,Ethical Decision Making and Intervention,Police Training,1
+740,Police Officer,Michigan State Police Security Awareness Training Level 1,Police Training,1
+741,Police Officer,Michigan State Police Security Awareness Training Level 2,Police Training,1
+742,Police Officer,Michigan State Police Security Awareness Training Level 3,Police Training,1
+743,Records Clerk,LERMA Conference,Police Training,24
+744,Records Clerk,2019 Bloodborne Pathogens ,Police Training,1
+745,Records Clerk,Hazardous Materials 2019,Police Training,1
+746,Records Clerk,Ethical Decision Making and Intervention,Police Training,1
+747,Records Clerk,Michigan State Police Security Awareness Training Level 1,Police Training,1
+748,Records Clerk,Michigan State Police Security Awareness Training Level 2,Police Training,1
+749,Records Clerk,Michigan State Police Security Awareness Training Level 3,Police Training,1
+750,Dispatcher,Every Officer a Leader,Police Training,16
+751,Dispatcher,Michigan Criminal Law Introduction for Dispatchers,Police Training,8
+752,Dispatcher,2019 Bloodborne Pathogens ,Police Training,1
+753,Dispatcher,Hazardous Materials 2019,Police Training,1
+754,Dispatcher,Ethical Decision Making and Intervention,Police Training,1
+755,Dispatcher,Michigan State Police Security Awareness Training Level 1,Police Training,1
+756,Dispatcher,Michigan State Police Security Awareness Training Level 2,Police Training,1
+757,Dispatcher,Michigan State Police Security Awareness Training Level 3,Police Training,1
+758,Dispatcher,Veterans Affairs S.A.V.E Training,Police Training,1
+759,Dispatcher,You Just Never Know: Mental Preparedness,Police Training,8
+760,Dispatcher,TSC Watchlisting Training,Police Training,1
+761,Patrol Officer,Outdoor Rifle Training,Police Training,9
+762,Patrol Officer,Taser Training,Police Training,8
+763,Patrol Officer,Rifle Training and Qualification,Police Training,8
+764,Patrol Officer,Michigan Traffic Safety Summit,Police Training,24
+765,Patrol Officer,Firearms Training/Qualification,Police Training,1
+766,Patrol Officer,Firearms Training/Qualification,Police Training,1
+767,Patrol Officer,Firearms Training/Qualification,Police Training,1
+768,Patrol Officer,Firearms Training/Qualification,Police Training,1
+769,Patrol Officer,Firearms Training/Qualification,Police Training,1
+770,Patrol Officer,Firearms Training/Qualification,Police Training,1
+771,Patrol Officer,2019 Bloodborne Pathogens ,Police Training,1
+772,Patrol Officer,Hazardous Materials 2019,Police Training,1
+773,Patrol Officer,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+774,Patrol Officer,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+775,Patrol Officer,2019 Response to Resistance Scenarios,Police Training,4
+776,Patrol Officer,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+777,Patrol Officer,2019 Home Made Explosives Recognition,Police Training,1
+778,Patrol Officer,2019 ALICE Methodology,Police Training,1
+779,Patrol Officer,2019 Community Policing / Problem Solving,Police Training,1
+780,Patrol Officer,2019 Below 100,Police Training,1
+781,Patrol Officer,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+782,Patrol Officer,2019 Employee Asssistance Program,Police Training,1
+783,Patrol Officer,2019 52-1 District Court Update ,Police Training,2
+784,Patrol Officer,2019 LEIN / MICR / Booking Update,Police Training,2
+785,Patrol Officer,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+786,Patrol Officer,2019 Accreditation Training,Community Policing,1
+787,Patrol Officer,Under the Influence of Cannabis - Understanding the Highway High,Police Training,8
+788,Patrol Officer,Ethical Decision Making and Intervention,Police Training,1
+789,Patrol Officer,2019 Accreditation Review,Police Training,1
+790,Patrol Officer,Michigan State Police Security Awareness Training Level 1,Police Training,1
+791,Patrol Officer,Michigan State Police Security Awareness Training Level 2,Police Training,1
+792,Patrol Officer,Michigan State Police Security Awareness Training Level 3,Police Training,1
+793,Patrol Officer,Veterans Affairs S.A.V.E Training,Police Training,1
+794,Patrol Officer,Office of Highway Safety Planning OWI Investigations,Police Training,1
+795,Patrol Officer,Oral Fluid Roadside Analysis Pilot Program,Police Training,4
+796,Patrol Officer,TSC Watchlisting Training,Police Training,1
+797,Patrol Officer,19-905 OWI Investigations,Police Training,1
+798,Patrol Officer,Outdoor Rifle Training,Police Training,9
+799,Patrol Officer,Rifle Training and Qualification,Police Training,8
+800,Patrol Officer,Rifle Training and Qualification,Police Training,8
+801,Patrol Officer,Advanced Roadside Impaired Driving Enforcement (ARIDE),Police Training,16
+802,Patrol Officer,Firearms Training/Qualification,Police Training,1
+803,Patrol Officer,Firearms Training/Qualification,Police Training,1
+804,Patrol Officer,Emergency Vehicle Operations (EVO),Police Training,8
+805,Patrol Officer,2019 Bloodborne Pathogens ,Police Training,1
+806,Patrol Officer,Hazardous Materials 2019,Police Training,1
+807,Patrol Officer,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+808,Patrol Officer,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+809,Patrol Officer,2019 Response to Resistance Scenarios,Police Training,4
+810,Patrol Officer,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+811,Patrol Officer,2019 Home Made Explosives Recognition,Police Training,1
+812,Patrol Officer,2019 ALICE Methodology,Police Training,1
+813,Patrol Officer,2019 Community Policing / Problem Solving,Police Training,1
+814,Patrol Officer,2019 Below 100,Police Training,1
+815,Patrol Officer,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+816,Patrol Officer,2019 Employee Asssistance Program,Police Training,1
+817,Patrol Officer,2019 52-1 District Court Update ,Police Training,2
+818,Patrol Officer,2019 LEIN / MICR / Booking Update,Police Training,2
+819,Patrol Officer,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+820,Patrol Officer,Ethical Decision Making and Intervention,Police Training,1
+821,Patrol Officer,2019 Accreditation Review,Police Training,1
+822,Patrol Officer,Michigan State Police Security Awareness Training Level 1,Police Training,1
+823,Patrol Officer,Michigan State Police Security Awareness Training Level 2,Police Training,1
+824,Patrol Officer,Michigan State Police Security Awareness Training Level 3,Police Training,1
+825,Patrol Officer,Veterans Affairs S.A.V.E Training,Police Training,1
+826,Patrol Officer,Office of Highway Safety Planning OWI Investigations,Police Training,1
+827,Patrol Officer,TSC Watchlisting Training,Police Training,1
+828,Patrol Officer,19-905 OWI Investigations,Police Training,1
+829,Detective,Rifle Instructor Training & Curriculum Development,Police Training,8
+830,Detective,Outdoor Rifle Training,Police Training,9
+831,Detective,Rifle Training and Qualification,Police Training,8
+832,Detective,Firearms Training/Qualification,Police Training,1
+833,Detective,Firearms Training/Qualification,Police Training,1
+834,Detective,Firearms Training/Qualification,Police Training,1
+835,Detective,Firearms Training/Qualification,Police Training,1
+836,Detective,Emergency Vehicle Operations (EVO),Police Training,8
+837,Detective,Taser X2 Instructor Certification,Police Training,16
+838,Detective,2019 Bloodborne Pathogens ,Police Training,1
+839,Detective,Hazardous Materials 2019,Police Training,1
+840,Detective,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+841,Detective,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+842,Detective,2019 Response to Resistance Scenarios,Police Training,4
+843,Detective,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+844,Detective,2019 Home Made Explosives Recognition,Police Training,1
+845,Detective,2019 ALICE Methodology,Police Training,1
+846,Detective,2019 Community Policing / Problem Solving,Police Training,1
+847,Detective,2019 Below 100,Police Training,1
+848,Detective,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+849,Detective,2019 Employee Asssistance Program,Police Training,1
+850,Detective,2019 52-1 District Court Update ,Police Training,2
+851,Detective,2019 LEIN / MICR / Booking Update,Police Training,2
+852,Detective,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+853,Detective,2019 Accreditation Training,Community Policing,1
+854,Detective,Ethical Decision Making and Intervention,Police Training,1
+855,Detective,2019 Accreditation Review,Police Training,1
+856,Detective,Michigan State Police Security Awareness Training Level 1,Police Training,1
+857,Detective,Michigan State Police Security Awareness Training Level 2,Police Training,1
+858,Detective,Michigan State Police Security Awareness Training Level 3,Police Training,1
+859,Detective,Gracie Survival Tactics - Instructor,Police Training,40
+860,Detective,Veterans Affairs S.A.V.E Training,Police Training,1
+861,Detective,MILO Simulator Training,Police Training,24
+862,Detective,Office of Highway Safety Planning OWI Investigations,Police Training,1
+863,Detective,Using and Understanding the Tools Provided by The SOD,Police Training,24
+864,Detective,TSC Watchlisting Training,Police Training,1
+865,Detective,Response to Resistance Annual Cadre Meeting,Police Training,8
+866,Patrol Officer,Every Officer a Leader,Police Training,16
+867,Patrol Officer,Advanced Roadside Impaired Driving Enforcement (ARIDE),Police Training,16
+868,Patrol Officer,South West Oakland SRT Alpena Training Week,Police Training,30
+869,Patrol Officer,Firearms Training/Qualification,Police Training,1
+870,Patrol Officer,Firearms Training/Qualification,Police Training,1
+871,Patrol Officer,2019 Bloodborne Pathogens ,Police Training,1
+872,Patrol Officer,Hazardous Materials 2019,Police Training,1
+873,Patrol Officer,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+874,Patrol Officer,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+875,Patrol Officer,2019 Response to Resistance Scenarios,Police Training,4
+876,Patrol Officer,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+877,Patrol Officer,2019 Home Made Explosives Recognition,Police Training,1
+878,Patrol Officer,2019 ALICE Methodology,Police Training,1
+879,Patrol Officer,2019 Community Policing / Problem Solving,Police Training,1
+880,Patrol Officer,2019 Below 100,Police Training,1
+881,Patrol Officer,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+882,Patrol Officer,2019 Employee Asssistance Program,Police Training,1
+883,Patrol Officer,2019 52-1 District Court Update ,Police Training,2
+884,Patrol Officer,2019 LEIN / MICR / Booking Update,Police Training,2
+885,Patrol Officer,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+886,Patrol Officer,2019 Accreditation Training,Community Policing,1
+887,Patrol Officer,Ethical Decision Making and Intervention,Police Training,1
+888,Patrol Officer,2019 Accreditation Review,Police Training,1
+889,Patrol Officer,Michigan State Police Security Awareness Training Level 1,Police Training,1
+890,Patrol Officer,Michigan State Police Security Awareness Training Level 2,Police Training,1
+891,Patrol Officer,Michigan State Police Security Awareness Training Level 3,Police Training,1
+892,Patrol Officer,Bulletproof: Policing in Today's Society,Police Training,8
+893,Patrol Officer,Gracie Survival Tactics - Instructor,Police Training,40
+894,Patrol Officer,2019 OTOA Conference (Ohio Tactical Officers Association),Police Training,40
+895,Patrol Officer,MILO Simulator Training,Police Training,24
+896,Patrol Officer,Office of Highway Safety Planning OWI Investigations,Police Training,1
+897,Patrol Officer,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+898,Patrol Officer,TSC Watchlisting Training,Police Training,1
+899,Patrol Officer,19-905 OWI Investigations,Police Training,1
+900,Patrol Officer,Response to Resistance Annual Cadre Meeting,Police Training,8
+901,Dispatcher,Every Officer a Leader,Police Training,16
+902,Dispatcher,2019 Bloodborne Pathogens ,Police Training,1
+903,Dispatcher,Hazardous Materials 2019,Police Training,1
+904,Dispatcher,Ethical Decision Making and Intervention,Police Training,1
+905,Dispatcher,Michigan State Police Security Awareness Training Level 1,Police Training,1
+906,Dispatcher,Michigan State Police Security Awareness Training Level 2,Police Training,1
+907,Dispatcher,Michigan State Police Security Awareness Training Level 3,Police Training,1
+908,Dispatcher,Michigan State Police Security Awareness Training Level 4,Police Training,1
+909,Dispatcher,911 Homicide: Is the Caller the Killer,Police Training,16
+910,Dispatcher,Veterans Affairs S.A.V.E Training,Police Training,1
+911,Dispatcher,TSC Watchlisting Training,Police Training,1
+912,Records Clerk,2019 Bloodborne Pathogens ,Police Training,1
+913,Records Clerk,Hazardous Materials 2019,Police Training,1
+914,Records Clerk,Ethical Decision Making and Intervention,Police Training,1
+915,Records Clerk,Michigan State Police Security Awareness Training Level 1,Police Training,1
+916,Records Clerk,Michigan State Police Security Awareness Training Level 2,Police Training,1
+917,Records Clerk,Michigan State Police Security Awareness Training Level 3,Police Training,1
+918,Records Clerk,LERMA - Firearm Purchase Permits and Prohibitors,Police Training,8
+919,Records Clerk,"CLEMIS Training for Investigators, Supervisors, and Records Personnel ",Police Training,2
+920,Cadet,Ethical Decision Making and Intervention,Police Training,1
+921,Cadet,Michigan State Police Security Awareness Training Level 1,Police Training,1
+922,Cadet,Michigan State Police Security Awareness Training Level 2,Police Training,1
+923,Cadet,Michigan State Police Security Awareness Training Level 3,Police Training,1
+924,Cadet,Veterans Affairs S.A.V.E Training,Police Training,1
+925,Cadet,TSC Watchlisting Training,Police Training,1
+926,Property Officer,2019 Bloodborne Pathogens ,Police Training,1
+927,Property Officer,Hazardous Materials 2019,Police Training,1
+928,Property Officer,Ethical Decision Making and Intervention,Police Training,1
+929,Property Officer,Michigan State Police Security Awareness Training Level 1,Police Training,1
+930,Property Officer,Michigan State Police Security Awareness Training Level 2,Police Training,1
+931,Property Officer,Michigan State Police Security Awareness Training Level 3,Police Training,1
+932,Patrol Officer,Taser Training,Police Training,8
+933,Patrol Officer,Rifle Training and Qualification,Police Training,8
+934,Patrol Officer,Rifle Training and Qualification,Police Training,8
+935,Patrol Officer,Rifle Training and Qualification,Police Training,8
+936,Patrol Officer,Rifle Training and Qualification,Police Training,8
+937,Patrol Officer,South West Oakland SRT Alpena Training Week,Police Training,30
+938,Patrol Officer,Firearms Training/Qualification,Police Training,1
+939,Patrol Officer,Firearms Training/Qualification,Police Training,1
+940,Patrol Officer,Firearms Training/Qualification,Police Training,1
+941,Patrol Officer,Firearms Training/Qualification,Police Training,1
+942,Patrol Officer,Firearms Training/Qualification,Police Training,1
+943,Patrol Officer,Emergency Vehicle Operations (EVO),Police Training,8
+944,Patrol Officer,2019 Bloodborne Pathogens ,Police Training,1
+945,Patrol Officer,SFST Instructor Course,Police Training,36
+946,Patrol Officer,Hazardous Materials 2019,Police Training,1
+947,Patrol Officer,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+948,Patrol Officer,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+949,Patrol Officer,2019 Response to Resistance Scenarios,Police Training,4
+950,Patrol Officer,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+951,Patrol Officer,2019 Home Made Explosives Recognition,Police Training,1
+952,Patrol Officer,2019 ALICE Methodology,Police Training,1
+953,Patrol Officer,2019 Community Policing / Problem Solving,Police Training,1
+954,Patrol Officer,2019 Below 100,Police Training,1
+955,Patrol Officer,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+956,Patrol Officer,2019 Employee Asssistance Program,Police Training,1
+957,Patrol Officer,2019 52-1 District Court Update ,Police Training,2
+958,Patrol Officer,2019 LEIN / MICR / Booking Update,Police Training,2
+959,Patrol Officer,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+960,Patrol Officer,2019 Accreditation Training,Community Policing,1
+961,Patrol Officer,Under the Influence of Cannabis - Understanding the Highway High,Police Training,8
+962,Patrol Officer,Ethical Decision Making and Intervention,Police Training,1
+963,Patrol Officer,2019 Accreditation Review,Police Training,1
+964,Patrol Officer,Michigan State Police Security Awareness Training Level 1,Police Training,1
+965,Patrol Officer,Michigan State Police Security Awareness Training Level 2,Police Training,1
+966,Patrol Officer,Michigan State Police Security Awareness Training Level 3,Police Training,1
+967,Patrol Officer,Veterans Affairs S.A.V.E Training,Police Training,1
+968,Patrol Officer,2019 OTOA Conference (Ohio Tactical Officers Association),Police Training,40
+969,Patrol Officer,Office of Highway Safety Planning OWI Investigations,Police Training,1
+970,Patrol Officer,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+971,Patrol Officer,TSC Watchlisting Training,Police Training,1
+972,Patrol Officer,19-905 OWI Investigations,Police Training,1
+973,Police Officer,Datamaster DMT,Police Training,2.5
+974,Police Officer,Rifle Training and Qualification,Police Training,8
+975,Police Officer,Rifle Training and Qualification,Police Training,8
+976,Police Officer,Advanced Roadside Impaired Driving Enforcement (ARIDE),Police Training,16
+977,Police Officer,OakTac Active Shooter Response Training,Police Training,16
+978,Police Officer,Firearms Training/Qualification,Police Training,1
+979,Police Officer,Firearms Training/Qualification,Police Training,1
+980,Police Officer,Firearms Training/Qualification,Police Training,1
+981,Police Officer,Firearms Training/Qualification,Police Training,1
+982,Police Officer,2019 Bloodborne Pathogens ,Police Training,1
+983,Police Officer,Hazardous Materials 2019,Police Training,1
+984,Police Officer,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+985,Police Officer,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+986,Police Officer,2019 Response to Resistance Scenarios,Police Training,4
+987,Police Officer,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+988,Police Officer,2019 Home Made Explosives Recognition,Police Training,1
+989,Police Officer,2019 ALICE Methodology,Police Training,1
+990,Police Officer,2019 Community Policing / Problem Solving,Police Training,1
+991,Police Officer,2019 Community Policing / Problem Solving,Police Training,1
+992,Police Officer,2019 Below 100,Police Training,1
+993,Police Officer,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+994,Police Officer,2019 Employee Asssistance Program,Police Training,1
+995,Police Officer,2019 52-1 District Court Update ,Police Training,2
+996,Police Officer,2019 LEIN / MICR / Booking Update,Police Training,2
+997,Police Officer,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+998,Police Officer,Ethical Decision Making and Intervention,Police Training,1
+999,Police Officer,2019 Accreditation Review,Police Training,1
+1000,Police Officer,Michigan State Police Security Awareness Training Level 1,Police Training,1
+1001,Police Officer,Michigan State Police Security Awareness Training Level 2,Police Training,1
+1002,Police Officer,Michigan State Police Security Awareness Training Level 3,Police Training,1
+1003,Police Officer,Office of Highway Safety Planning OWI Investigations,Police Training,1
+1004,Police Officer,TSC Watchlisting Training,Police Training,1
+1005,Police Officer,19-905 OWI Investigations,Police Training,1
+1006,Patrol Sergeant,Advanced Roadside Impaired Driving Enforcement (ARIDE),Police Training,16
+1007,Patrol Sergeant,Firearms Training/Qualification,Police Training,1
+1008,Patrol Sergeant,Firearms Training/Qualification,Police Training,1
+1009,Patrol Sergeant,Firearms Training/Qualification,Police Training,1
+1010,Patrol Sergeant,EAP Training for Supervisors,Police Training,1
+1011,Patrol Sergeant,18-909 Avon C50 Gas Mask Training,Police Training,1
+1012,Patrol Sergeant,2019 Bloodborne Pathogens ,Police Training,1
+1013,Patrol Sergeant,Hazardous Materials 2019,Police Training,1
+1014,Patrol Sergeant,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+1015,Patrol Sergeant,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+1016,Patrol Sergeant,2019 Response to Resistance Scenarios,Police Training,4
+1017,Patrol Sergeant,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+1018,Patrol Sergeant,2019 Home Made Explosives Recognition,Police Training,1
+1019,Patrol Sergeant,2019 ALICE Methodology,Police Training,1
+1020,Patrol Sergeant,2019 Community Policing / Problem Solving,Police Training,1
+1021,Patrol Sergeant,2019 Below 100,Police Training,1
+1022,Patrol Sergeant,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+1023,Patrol Sergeant,2019 Employee Asssistance Program,Police Training,1
+1024,Patrol Sergeant,2019 52-1 District Court Update ,Police Training,2
+1025,Patrol Sergeant,2019 LEIN / MICR / Booking Update,Police Training,2
+1026,Patrol Sergeant,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+1027,Patrol Sergeant,Ethical Decision Making and Intervention,Police Training,1
+1028,Patrol Sergeant,2019 Accreditation Review,Police Training,1
+1029,Patrol Sergeant,Michigan State Police Security Awareness Training Level 1,Police Training,1
+1030,Patrol Sergeant,Michigan State Police Security Awareness Training Level 2,Police Training,1
+1031,Patrol Sergeant,Michigan State Police Security Awareness Training Level 3,Police Training,1
+1032,Patrol Sergeant,Veterans Affairs S.A.V.E Training,Police Training,1
+1033,Patrol Sergeant,Office of Highway Safety Planning OWI Investigations,Police Training,1
+1034,Patrol Sergeant,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+1035,Patrol Sergeant,TSC Watchlisting Training,Police Training,1
+1036,Patrol Sergeant,19-905 OWI Investigations,Police Training,1
+1037,Patrol Sergeant,2020 Community Policing and Problem Solving,Police Training,1
+1038,Cadet,2019 Bloodborne Pathogens ,Police Training,1
+1039,Cadet,Hazardous Materials 2019,Police Training,1
+1040,Cadet,Ethical Decision Making and Intervention,Police Training,1
+1041,Cadet,Michigan State Police Security Awareness Training Level 1,Police Training,1
+1042,Cadet,Michigan State Police Security Awareness Training Level 2,Police Training,1
+1043,Cadet,Michigan State Police Security Awareness Training Level 3,Police Training,1
+1044,Cadet,Veterans Affairs S.A.V.E Training,Police Training,1
+1045,Cadet,TSC Watchlisting Training,Police Training,1
+1046,Patrol Officer,Datamaster DMT,Police Training,2.5
+1047,Patrol Officer,Taser Training,Police Training,8
+1048,Patrol Officer,Rifle Training and Qualification,Police Training,8
+1049,Patrol Officer,Rifle Training and Qualification,Police Training,8
+1050,Patrol Officer,Advanced Roadside Impaired Driving Enforcement (ARIDE),Police Training,16
+1051,Patrol Officer,OakTac Active Shooter Response Training,Police Training,16
+1052,Patrol Officer,Firearms Training/Qualification,Police Training,1
+1053,Patrol Officer,Firearms Training/Qualification,Police Training,1
+1054,Patrol Officer,MCOLES Active Duty Firearm Standard 2018,Police Training,1
+1055,Patrol Officer,2019 Bloodborne Pathogens ,Police Training,1
+1056,Patrol Officer,Hazardous Materials 2019,Police Training,1
+1057,Patrol Officer,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+1058,Patrol Officer,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+1059,Patrol Officer,2019 Response to Resistance Scenarios,Police Training,4
+1060,Patrol Officer,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+1061,Patrol Officer,2019 Home Made Explosives Recognition,Police Training,1
+1062,Patrol Officer,2019 ALICE Methodology,Police Training,1
+1063,Patrol Officer,2019 Community Policing / Problem Solving,Police Training,1
+1064,Patrol Officer,2019 Below 100,Police Training,1
+1065,Patrol Officer,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+1066,Patrol Officer,2019 Employee Asssistance Program,Police Training,1
+1067,Patrol Officer,2019 52-1 District Court Update ,Police Training,2
+1068,Patrol Officer,2019 LEIN / MICR / Booking Update,Police Training,2
+1069,Patrol Officer,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+1070,Patrol Officer,2019 Accreditation Training,Community Policing,1
+1071,Patrol Officer,Ethical Decision Making and Intervention,Police Training,1
+1072,Patrol Officer,2019 Accreditation Review,Police Training,1
+1073,Patrol Officer,Michigan State Police Security Awareness Training Level 1,Police Training,1
+1074,Patrol Officer,Michigan State Police Security Awareness Training Level 2,Police Training,1
+1075,Patrol Officer,Michigan State Police Security Awareness Training Level 3,Police Training,1
+1076,Patrol Officer,Veterans Affairs S.A.V.E Training,Police Training,1
+1077,Patrol Officer,Office of Highway Safety Planning OWI Investigations,Police Training,1
+1078,Patrol Officer,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+1079,Patrol Officer,TSC Watchlisting Training,Police Training,1
+1080,Patrol Officer,19-905 OWI Investigations,Police Training,1
+1081,Patrol Officer,REID Technique of Interview and Interrogation,Police Training,32
+1082,Patrol Officer,Outdoor Rifle Training,Police Training,9
+1083,Patrol Officer,Taser Training,Police Training,8
+1084,Patrol Officer,Rifle Training and Qualification,Police Training,8
+1085,Patrol Officer,Firearms Training/Qualification,Police Training,1
+1086,Patrol Officer,Firearms Training/Qualification,Police Training,1
+1087,Patrol Officer,Firearms Training/Qualification,Police Training,1
+1088,Patrol Officer,Firearms Training/Qualification,Police Training,1
+1089,Patrol Officer,Firearms Training/Qualification,Police Training,1
+1090,Patrol Officer,Firearms Training/Qualification,Police Training,1
+1091,Patrol Officer,Emergency Vehicle Operations (EVO),Police Training,8
+1092,Patrol Officer,2019 Bloodborne Pathogens ,Police Training,1
+1093,Patrol Officer,Hazardous Materials 2019,Police Training,1
+1094,Patrol Officer,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+1095,Patrol Officer,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+1096,Patrol Officer,2019 Response to Resistance Scenarios,Police Training,4
+1097,Patrol Officer,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+1098,Patrol Officer,2019 Home Made Explosives Recognition,Police Training,1
+1099,Patrol Officer,2019 ALICE Methodology,Police Training,1
+1100,Patrol Officer,2019 Community Policing / Problem Solving,Police Training,1
+1101,Patrol Officer,2019 Below 100,Police Training,1
+1102,Patrol Officer,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+1103,Patrol Officer,2019 Employee Asssistance Program,Police Training,1
+1104,Patrol Officer,2019 52-1 District Court Update ,Police Training,2
+1105,Patrol Officer,2019 LEIN / MICR / Booking Update,Police Training,2
+1106,Patrol Officer,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+1107,Patrol Officer,2019 Accreditation Training,Community Policing,1
+1108,Patrol Officer,Ethical Decision Making and Intervention,Police Training,1
+1109,Patrol Officer,2019 Accreditation Review,Police Training,1
+1110,Patrol Officer,Michigan State Police Security Awareness Training Level 1,Police Training,1
+1111,Patrol Officer,Michigan State Police Security Awareness Training Level 2,Police Training,1
+1112,Patrol Officer,Michigan State Police Security Awareness Training Level 3,Police Training,1
+1113,Patrol Officer,Veterans Affairs S.A.V.E Training,Police Training,1
+1114,Patrol Officer,Office of Highway Safety Planning OWI Investigations,Police Training,1
+1115,Patrol Officer,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+1116,Patrol Officer,TSC Watchlisting Training,Police Training,1
+1117,Patrol Officer,Basic Crisis Negotiation,Police Training,40
+1118,Patrol Officer,19-905 OWI Investigations,Police Training,1
+1119,Detective,Outdoor Rifle Training,Police Training,9
+1120,Detective,Rifle Training and Qualification,Police Training,8
+1121,Detective,Firearms Training/Qualification,Police Training,1
+1122,Detective,Firearms Training/Qualification,Police Training,1
+1123,Detective,Firearms Training/Qualification,Police Training,1
+1124,Detective,Firearms Training/Qualification,Police Training,1
+1125,Detective,2019 Bloodborne Pathogens ,Police Training,1
+1126,Detective,Hazardous Materials 2019,Police Training,1
+1127,Detective,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+1128,Detective,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+1129,Detective,2019 Response to Resistance Scenarios,Police Training,4
+1130,Detective,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+1131,Detective,2019 Home Made Explosives Recognition,Police Training,1
+1132,Detective,2019 ALICE Methodology,Police Training,1
+1133,Detective,2019 Community Policing / Problem Solving,Police Training,1
+1134,Detective,2019 Below 100,Police Training,1
+1135,Detective,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+1136,Detective,2019 Employee Asssistance Program,Police Training,1
+1137,Detective,2019 52-1 District Court Update ,Police Training,2
+1138,Detective,2019 LEIN / MICR / Booking Update,Police Training,2
+1139,Detective,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+1140,Detective,Ethical Decision Making and Intervention,Police Training,1
+1141,Detective,2019 Accreditation Review,Police Training,1
+1142,Detective,Michigan State Police Security Awareness Training Level 1,Police Training,1
+1143,Detective,Michigan State Police Security Awareness Training Level 2,Police Training,1
+1144,Detective,Michigan State Police Security Awareness Training Level 3,Police Training,1
+1145,Detective,Veterans Affairs S.A.V.E Training,Police Training,1
+1146,Detective,Office of Highway Safety Planning OWI Investigations,Police Training,1
+1147,Detective,Mobile Device Examiner,Police Training,240
+1148,Detective,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+1149,Detective,TSC Watchlisting Training,Police Training,1
+1150,Detective,19-905 OWI Investigations,Police Training,1
+1151,Detective,2020 Community Policing and Problem Solving,Police Training,1
+1152,Detective,Rifle Training and Qualification,Police Training,8
+1153,Detective,Rifle Training and Qualification,Police Training,8
+1154,Detective,Firearms Training/Qualification,Police Training,1
+1155,Detective,Firearms Training/Qualification,Police Training,1
+1156,Detective,Emergency Vehicle Operations (EVO),Police Training,8
+1157,Detective,2019 Bloodborne Pathogens ,Police Training,1
+1158,Detective,Hazardous Materials 2019,Police Training,1
+1159,Detective,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+1160,Detective,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+1161,Detective,2019 Response to Resistance Scenarios,Police Training,4
+1162,Detective,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+1163,Detective,2019 Home Made Explosives Recognition,Police Training,1
+1164,Detective,2019 ALICE Methodology,Police Training,1
+1165,Detective,2019 Community Policing / Problem Solving,Police Training,1
+1166,Detective,2019 Below 100,Police Training,1
+1167,Detective,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+1168,Detective,2019 Employee Asssistance Program,Police Training,1
+1169,Detective,2019 52-1 District Court Update ,Police Training,2
+1170,Detective,2019 LEIN / MICR / Booking Update,Police Training,2
+1171,Detective,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+1172,Detective,Ethical Decision Making and Intervention,Police Training,1
+1173,Detective,2019 Accreditation Review,Police Training,1
+1174,Detective,Michigan State Police Security Awareness Training Level 1,Police Training,1
+1175,Detective,Michigan State Police Security Awareness Training Level 2,Police Training,1
+1176,Detective,Michigan State Police Security Awareness Training Level 3,Police Training,1
+1177,Detective,Policing the Teen Brain,Police Training,16
+1178,Detective,Veterans Affairs S.A.V.E Training,Police Training,1
+1179,Detective,Office of Highway Safety Planning OWI Investigations,Police Training,1
+1180,Detective,21st Annual Police Orientation ,Police Training,4.5
+1181,Detective,TSC Watchlisting Training,Police Training,1
+1182,Detective,Michigan Crisis Intervention Training Conference ,Police Training,16
+1183,Detective,19-905 OWI Investigations,Police Training,1
+1184,Detective,2020 Community Policing and Problem Solving,Police Training,1
+1185,Detective,School Bus Critical Incident Awareness Train the Trainer,Police Training,4
+1186,Police Officer,Datamaster DMT,Police Training,2.5
+1187,Police Officer,Rifle Training and Qualification,Police Training,8
+1188,Police Officer,Rifle Training and Qualification,Police Training,8
+1189,Police Officer,Advanced Roadside Impaired Driving Enforcement (ARIDE),Police Training,16
+1190,Police Officer,OakTac Active Shooter Response Training,Police Training,16
+1191,Police Officer,Firearms Training/Qualification,Police Training,1
+1192,Police Officer,Firearms Training/Qualification,Police Training,1
+1193,Police Officer,Firearms Training/Qualification,Police Training,1
+1194,Police Officer,Firearms Training/Qualification,Police Training,1
+1195,Police Officer,Firearms Training/Qualification,Police Training,1
+1196,Police Officer,Firearms Training/Qualification,Police Training,1
+1197,Police Officer,2019 Bloodborne Pathogens ,Police Training,1
+1198,Police Officer,Hazardous Materials 2019,Police Training,1
+1199,Police Officer,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+1200,Police Officer,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+1201,Police Officer,2019 Response to Resistance Scenarios,Police Training,4
+1202,Police Officer,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+1203,Police Officer,2019 Home Made Explosives Recognition,Police Training,1
+1204,Police Officer,2019 ALICE Methodology,Police Training,1
+1205,Police Officer,2019 Community Policing / Problem Solving,Police Training,1
+1206,Police Officer,2019 Below 100,Police Training,1
+1207,Police Officer,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+1208,Police Officer,2019 Employee Asssistance Program,Police Training,1
+1209,Police Officer,2019 52-1 District Court Update ,Police Training,2
+1210,Police Officer,2019 LEIN / MICR / Booking Update,Police Training,2
+1211,Police Officer,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+1212,Police Officer,2019 Accreditation Training,Community Policing,1
+1213,Police Officer,Ethical Decision Making and Intervention,Police Training,1
+1214,Police Officer,2019 Accreditation Review,Police Training,1
+1215,Police Officer,Michigan State Police Security Awareness Training Level 1,Police Training,1
+1216,Police Officer,Michigan State Police Security Awareness Training Level 2,Police Training,1
+1217,Police Officer,Michigan State Police Security Awareness Training Level 3,Police Training,1
+1218,Police Officer,Office of Highway Safety Planning OWI Investigations,Police Training,1
+1219,Police Officer,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+1220,Police Officer,TSC Watchlisting Training,Police Training,1
+1221,Police Officer,19-905 OWI Investigations,Police Training,1
+1222,Detective,Outdoor Rifle Training,Police Training,9
+1223,Detective,Rifle Training and Qualification,Police Training,8
+1224,Detective,Firearms Training/Qualification,Police Training,1
+1225,Detective,Firearms Training/Qualification,Police Training,1
+1226,Detective,Firearms Training/Qualification,Police Training,1
+1227,Detective,Firearms Training/Qualification,Police Training,1
+1228,Detective,2019 Bloodborne Pathogens ,Police Training,1
+1229,Detective,Hazardous Materials 2019,Police Training,1
+1230,Detective,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+1231,Detective,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+1232,Detective,2019 Response to Resistance Scenarios,Police Training,4
+1233,Detective,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+1234,Detective,2019 Home Made Explosives Recognition,Police Training,1
+1235,Detective,2019 ALICE Methodology,Police Training,1
+1236,Detective,2019 Community Policing / Problem Solving,Police Training,1
+1237,Detective,2019 Below 100,Police Training,1
+1238,Detective,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+1239,Detective,2019 Employee Asssistance Program,Police Training,1
+1240,Detective,2019 52-1 District Court Update ,Police Training,2
+1241,Detective,2019 LEIN / MICR / Booking Update,Police Training,2
+1242,Detective,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+1243,Detective,2019 Accreditation Training,Community Policing,1
+1244,Detective,Ethical Decision Making and Intervention,Police Training,1
+1245,Detective,2019 Accreditation Review,Police Training,1
+1246,Detective,Michigan State Police Security Awareness Training Level 1,Police Training,1
+1247,Detective,Michigan State Police Security Awareness Training Level 2,Police Training,1
+1248,Detective,Michigan State Police Security Awareness Training Level 3,Police Training,1
+1249,Detective,4th Annual Active Assailant Confrence,Police Training,16
+1250,Detective,4th Annual North American Active Assailant Conference-Considerations for School Pre-Conference ,Police Training,6
+1251,Detective,Veterans Affairs S.A.V.E Training,Police Training,1
+1252,Detective,Office of Highway Safety Planning OWI Investigations,Police Training,1
+1253,Detective,Texas A&M Civilian Response to Active Shooter Events Instructor,Police Training,4
+1254,Detective,21st Annual Police Orientation ,Police Training,4.5
+1255,Detective,TSC Watchlisting Training,Police Training,1
+1256,Detective,19-905 OWI Investigations,Police Training,1
+1257,Detective,School Bus Critical Incident Awareness Train the Trainer,Police Training,4
+1258,Dispatcher,2019 Bloodborne Pathogens ,Police Training,1
+1259,Dispatcher,Hazardous Materials 2019,Police Training,1
+1260,Dispatcher,Ethical Decision Making and Intervention,Police Training,1
+1261,Dispatcher,Michigan State Police Security Awareness Training Level 1,Police Training,1
+1262,Dispatcher,Michigan State Police Security Awareness Training Level 2,Police Training,1
+1263,Dispatcher,Michigan State Police Security Awareness Training Level 3,Police Training,1
+1264,Dispatcher,Veterans Affairs S.A.V.E Training,Police Training,1
+1265,Police Officer,Datamaster DMT,Police Training,2.5
+1266,Police Officer,Outdoor Rifle Training,Police Training,9
+1267,Police Officer,Rifle Training and Qualification,Police Training,8
+1268,Police Officer,Advanced Roadside Impaired Driving Enforcement (ARIDE),Police Training,16
+1269,Police Officer,OakTac Active Shooter Response Training,Police Training,16
+1270,Police Officer,Firearms Training/Qualification,Police Training,1
+1271,Police Officer,Firearms Training/Qualification,Police Training,1
+1272,Police Officer,Firearms Training/Qualification,Police Training,1
+1273,Police Officer,Firearms Training/Qualification,Police Training,1
+1274,Police Officer,Firearms Training/Qualification,Police Training,1
+1275,Police Officer,Firearms Training/Qualification,Police Training,1
+1276,Police Officer,MCOLES Active Duty Firearm Standard 2018,Police Training,1
+1277,Police Officer,18-909 Avon C50 Gas Mask Training,Police Training,1
+1278,Police Officer,2019 Bloodborne Pathogens ,Police Training,1
+1279,Police Officer,Hazardous Materials 2019,Police Training,1
+1280,Police Officer,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+1281,Police Officer,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+1282,Police Officer,2019 Response to Resistance Scenarios,Police Training,4
+1283,Police Officer,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+1284,Police Officer,2019 Home Made Explosives Recognition,Police Training,1
+1285,Police Officer,2019 ALICE Methodology,Police Training,1
+1286,Police Officer,2019 Community Policing / Problem Solving,Police Training,1
+1287,Police Officer,2019 Below 100,Police Training,1
+1288,Police Officer,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+1289,Police Officer,2019 Employee Asssistance Program,Police Training,1
+1290,Police Officer,2019 52-1 District Court Update ,Police Training,2
+1291,Police Officer,2019 LEIN / MICR / Booking Update,Police Training,2
+1292,Police Officer,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+1293,Police Officer,2019 Accreditation Training,Community Policing,1
+1294,Police Officer,Ethical Decision Making and Intervention,Police Training,1
+1295,Police Officer,2019 Accreditation Review,Police Training,1
+1296,Police Officer,Michigan State Police Security Awareness Training Level 1,Police Training,1
+1297,Police Officer,Michigan State Police Security Awareness Training Level 2,Police Training,1
+1298,Police Officer,Michigan State Police Security Awareness Training Level 3,Police Training,1
+1299,Police Officer,Veterans Affairs S.A.V.E Training,Police Training,1
+1300,Police Officer,Office of Highway Safety Planning OWI Investigations,Police Training,1
+1301,Police Officer,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+1302,Police Officer,TSC Watchlisting Training,Police Training,1
+1303,Police Officer,19-905 OWI Investigations,Police Training,1
+1304,Police Officer,2020 Community Policing and Problem Solving,Police Training,1
+1305,Detective Sergeant,Outdoor Rifle Training,Police Training,9
+1306,Detective Sergeant,Rifle Training and Qualification,Police Training,8
+1307,Detective Sergeant,Firearms Training/Qualification,Police Training,1
+1308,Detective Sergeant,Firearms Training/Qualification,Police Training,1
+1309,Detective Sergeant,Firearms Training/Qualification,Police Training,1
+1310,Detective Sergeant,Emergency Vehicle Operations (EVO),Police Training,8
+1311,Detective Sergeant,2019 Bloodborne Pathogens ,Police Training,1
+1312,Detective Sergeant,Hazardous Materials 2019,Police Training,1
+1313,Detective Sergeant,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+1314,Detective Sergeant,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+1315,Detective Sergeant,2019 Response to Resistance Scenarios,Police Training,4
+1316,Detective Sergeant,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+1317,Detective Sergeant,2019 Home Made Explosives Recognition,Police Training,1
+1318,Detective Sergeant,2019 ALICE Methodology,Police Training,1
+1319,Detective Sergeant,2019 Community Policing / Problem Solving,Police Training,1
+1320,Detective Sergeant,2019 Below 100,Police Training,1
+1321,Detective Sergeant,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+1322,Detective Sergeant,2019 Employee Asssistance Program,Police Training,1
+1323,Detective Sergeant,2019 52-1 District Court Update ,Police Training,2
+1324,Detective Sergeant,2019 LEIN / MICR / Booking Update,Police Training,2
+1325,Detective Sergeant,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+1326,Detective Sergeant,Ethical Decision Making and Intervention,Police Training,1
+1327,Detective Sergeant,2019 Accreditation Review,Police Training,1
+1328,Detective Sergeant,Michigan State Police Security Awareness Training Level 1,Police Training,1
+1329,Detective Sergeant,Michigan State Police Security Awareness Training Level 2,Police Training,1
+1330,Detective Sergeant,Michigan State Police Security Awareness Training Level 3,Police Training,1
+1331,Detective Sergeant,Internal Affairs Investigations: Criminal vs. Administrative Investigations,Police Training,1
+1332,Detective Sergeant,Veterans Affairs S.A.V.E Training,Police Training,1
+1333,Detective Sergeant,Office of Highway Safety Planning OWI Investigations,Police Training,1
+1334,Detective Sergeant,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+1335,Detective Sergeant,TSC Watchlisting Training,Police Training,1
+1336,Detective Sergeant,Evolutionary Leadership,Police Training,8
+1337,Detective Sergeant,19-905 OWI Investigations,Police Training,1
+1338,Detective Sergeant,2020 Community Policing and Problem Solving,Police Training,1
+1339,Patrol Sergeant,Outdoor Rifle Training,Police Training,9
+1340,Patrol Sergeant,Rifle Training and Qualification,Police Training,8
+1341,Patrol Sergeant,Firearms Training/Qualification,Police Training,1
+1342,Patrol Sergeant,Firearms Training/Qualification,Police Training,1
+1343,Patrol Sergeant,Emergency Vehicle Operations (EVO),Police Training,8
+1344,Patrol Sergeant,Michigan Association of Hostage Negotiators Confrence,Police Training,16
+1345,Patrol Sergeant,Leadership in Police Organizations (LPO),Police Training,135
+1346,Patrol Sergeant,2019 Bloodborne Pathogens ,Police Training,1
+1347,Patrol Sergeant,Hazardous Materials 2019,Police Training,1
+1348,Patrol Sergeant,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+1349,Patrol Sergeant,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+1350,Patrol Sergeant,2019 Response to Resistance Scenarios,Police Training,4
+1351,Patrol Sergeant,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+1352,Patrol Sergeant,2019 Home Made Explosives Recognition,Police Training,1
+1353,Patrol Sergeant,2019 ALICE Methodology,Police Training,1
+1354,Patrol Sergeant,2019 Community Policing / Problem Solving,Police Training,1
+1355,Patrol Sergeant,2019 Below 100,Police Training,1
+1356,Patrol Sergeant,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+1357,Patrol Sergeant,2019 Employee Asssistance Program,Police Training,1
+1358,Patrol Sergeant,2019 52-1 District Court Update ,Police Training,2
+1359,Patrol Sergeant,2019 LEIN / MICR / Booking Update,Police Training,2
+1360,Patrol Sergeant,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+1361,Patrol Sergeant,Ethical Decision Making and Intervention,Police Training,1
+1362,Patrol Sergeant,2019 Accreditation Review,Police Training,1
+1363,Patrol Sergeant,Michigan State Police Security Awareness Training Level 1,Police Training,1
+1364,Patrol Sergeant,Michigan State Police Security Awareness Training Level 2,Police Training,1
+1365,Patrol Sergeant,Individual and Group Crisis Intervention Train the Trainer,Police Training,24
+1366,Patrol Sergeant,FBI Crisis Negotiation,Police Training,24
+1367,Patrol Sergeant,Veterans Affairs S.A.V.E Training,Police Training,1
+1368,Patrol Sergeant,TSC Watchlisting Training,Police Training,1
+1369,Patrol Sergeant,Michigan Crisis Intervention Training Conference ,Police Training,16
+1370,Patrol Sergeant,19-905 OWI Investigations,Police Training,1
+1371,Records Clerk,LERMA Seminar,Police Training,8
+1372,Records Clerk,2019 Bloodborne Pathogens ,Police Training,1
+1373,Records Clerk,Hazardous Materials 2019,Police Training,1
+1374,Records Clerk,Ethical Decision Making and Intervention,Police Training,1
+1375,Records Clerk,Michigan State Police Security Awareness Training Level 1,Police Training,1
+1376,Records Clerk,Michigan State Police Security Awareness Training Level 2,Police Training,1
+1377,Records Clerk,Michigan State Police Security Awareness Training Level 3,Police Training,1
+1378,Dispatcher,Hazardous Materals/Blood Borne Pathogens,Police Training,4
+1379,Dispatcher,Every Officer a Leader,Police Training,16
+1380,Dispatcher,2019 Bloodborne Pathogens ,Police Training,1
+1381,Dispatcher,Hazardous Materials 2019,Police Training,1
+1382,Dispatcher,Ethical Decision Making and Intervention,Police Training,1
+1383,Dispatcher,Michigan State Police Security Awareness Training Level 1,Police Training,1
+1384,Dispatcher,Michigan State Police Security Awareness Training Level 2,Police Training,1
+1385,Dispatcher,Michigan State Police Security Awareness Training Level 3,Police Training,1
+1386,Dispatcher,Veterans Affairs S.A.V.E Training,Police Training,1
+1387,Dispatcher,TSC Watchlisting Training,Police Training,1
+1388,Dispatcher,LEIN TAC Basic,Police Training,7
+1389,Dispatcher,2019 Bloodborne Pathogens ,Police Training,1
+1390,Dispatcher,Hazardous Materials 2019,Police Training,1
+1391,Dispatcher,Ethical Decision Making and Intervention,Police Training,1
+1392,Dispatcher,Michigan State Police Security Awareness Training Level 1,Police Training,1
+1393,Dispatcher,Michigan State Police Security Awareness Training Level 2,Police Training,1
+1394,Dispatcher,Michigan State Police Security Awareness Training Level 3,Police Training,1
+1395,Dispatcher,Veterans Affairs S.A.V.E Training,Police Training,1
+1396,Dispatcher,TSC Watchlisting Training,Police Training,1
+1397,Dispatch Shift Leader,2019 Bloodborne Pathogens ,Police Training,1
+1398,Dispatch Shift Leader,Hazardous Materials 2019,Police Training,1
+1399,Dispatch Shift Leader,Ethical Decision Making and Intervention,Police Training,1
+1400,Dispatch Shift Leader,Michigan State Police Security Awareness Training Level 1,Police Training,1
+1401,Dispatch Shift Leader,Michigan State Police Security Awareness Training Level 2,Police Training,1
+1402,Dispatch Shift Leader,Veterans Affairs S.A.V.E Training,Police Training,1
+1403,Dispatch Shift Leader,TSC Watchlisting Training,Police Training,1
+1404,Patrol Officer,REID Technique of Interview and Interrogation,Police Training,32
+1405,Patrol Officer,Every Officer a Leader,Police Training,16
+1406,Patrol Officer,Outdoor Rifle Training,Police Training,9
+1407,Patrol Officer,Rifle Training and Qualification,Police Training,8
+1408,Patrol Officer,Firearms Training/Qualification,Police Training,1
+1409,Patrol Officer,Firearms Training/Qualification,Police Training,1
+1410,Patrol Officer,Firearms Training/Qualification,Police Training,1
+1411,Patrol Officer,Emergency Vehicle Operations (EVO),Police Training,8
+1412,Patrol Officer,2019 Bloodborne Pathogens ,Police Training,1
+1413,Patrol Officer,Hazardous Materials 2019,Police Training,1
+1414,Patrol Officer,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+1415,Patrol Officer,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+1416,Patrol Officer,2019 Response to Resistance Scenarios,Police Training,4
+1417,Patrol Officer,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+1418,Patrol Officer,2019 Home Made Explosives Recognition,Police Training,1
+1419,Patrol Officer,2019 ALICE Methodology,Police Training,1
+1420,Patrol Officer,2019 Community Policing / Problem Solving,Police Training,1
+1421,Patrol Officer,2019 Below 100,Police Training,1
+1422,Patrol Officer,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+1423,Patrol Officer,2019 Employee Asssistance Program,Police Training,1
+1424,Patrol Officer,2019 52-1 District Court Update ,Police Training,2
+1425,Patrol Officer,2019 LEIN / MICR / Booking Update,Police Training,2
+1426,Patrol Officer,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+1427,Patrol Officer,Ethical Decision Making and Intervention,Police Training,1
+1428,Patrol Officer,2019 Accreditation Review,Police Training,1
+1429,Patrol Officer,Michigan State Police Security Awareness Training Level 1,Police Training,1
+1430,Patrol Officer,Michigan State Police Security Awareness Training Level 2,Police Training,1
+1431,Patrol Officer,Michigan State Police Security Awareness Training Level 3,Police Training,1
+1432,Patrol Officer,Veterans Affairs S.A.V.E Training,Police Training,1
+1433,Patrol Officer,Office of Highway Safety Planning OWI Investigations,Police Training,1
+1434,Patrol Officer,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+1435,Patrol Officer,TSC Watchlisting Training,Police Training,1
+1436,Patrol Officer,Charatceristics of Armend Offenders,Police Training,16
+1437,Patrol Officer,19-905 OWI Investigations,Police Training,1
+1438,Patrol Officer,2020 Community Policing and Problem Solving,Police Training,1
+1439,Dispatch Shift Leader,Crisis Intervention ,Police Training,8
+1440,Dispatch Shift Leader,2019 Bloodborne Pathogens ,Police Training,1
+1441,Dispatch Shift Leader,Hazardous Materials 2019,Police Training,1
+1442,Lieutenant,Taser Training,Police Training,8
+1443,Lieutenant,Rifle Training and Qualification,Police Training,8
+1444,Lieutenant,Rifle Training and Qualification,Police Training,8
+1445,Lieutenant,Firearms Training/Qualification,Police Training,1
+1446,Lieutenant,Firearms Training/Qualification,Police Training,1
+1447,Lieutenant,Firearms Training/Qualification,Police Training,1
+1448,Lieutenant,Firearms Training/Qualification,Police Training,1
+1449,Lieutenant,Firearms Training/Qualification,Police Training,1
+1450,Lieutenant,2019 Bloodborne Pathogens ,Police Training,1
+1451,Lieutenant,Hazardous Materials 2019,Police Training,1
+1452,Lieutenant,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+1453,Lieutenant,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+1454,Lieutenant,2019 Response to Resistance Scenarios,Police Training,4
+1455,Lieutenant,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+1456,Lieutenant,2019 Home Made Explosives Recognition,Police Training,1
+1457,Lieutenant,2019 ALICE Methodology,Police Training,1
+1458,Lieutenant,2019 Community Policing / Problem Solving,Police Training,1
+1459,Lieutenant,2019 Below 100,Police Training,1
+1460,Lieutenant,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+1461,Lieutenant,2019 Employee Asssistance Program,Police Training,1
+1462,Lieutenant,2019 52-1 District Court Update ,Police Training,2
+1463,Lieutenant,2019 LEIN / MICR / Booking Update,Police Training,2
+1464,Lieutenant,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+1465,Lieutenant,2019 Accreditation Training,Community Policing,1
+1466,Lieutenant,Under the Influence of Cannabis - Understanding the Highway High,Police Training,8
+1467,Lieutenant,Ethical Decision Making and Intervention,Police Training,1
+1468,Lieutenant,2019 Accreditation Review,Police Training,1
+1469,Lieutenant,Michigan State Police Security Awareness Training Level 1,Police Training,1
+1470,Lieutenant,Michigan State Police Security Awareness Training Level 2,Police Training,1
+1471,Lieutenant,Michigan State Police Security Awareness Training Level 3,Police Training,1
+1472,Lieutenant,Veterans Affairs S.A.V.E Training,Police Training,1
+1473,Lieutenant,Office of Highway Safety Planning OWI Investigations,Police Training,1
+1474,Lieutenant,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+1475,Lieutenant,TSC Watchlisting Training,Police Training,1
+1476,Lieutenant,FAA Part 107 Exam Preparation and Remote Pilot License,Police Training,8
+1477,Lieutenant,Michigan Marijuana Law Conference,Police Training,24
+1478,Lieutenant,Evolutionary Leadership,Police Training,8
+1479,Lieutenant,19-905 OWI Investigations,Police Training,1
+1480,Dispatcher,Basic LEIN Operator Training,Police Training,8
+1481,Dispatcher,Sexual Harassment Training,HR Training,
+1482,Dispatcher,Leaves of Absence Training,HR Training,0
+1483,Dispatcher,Diversity Training (HR),HR Training,0
+1484,Dispatcher,Customer Service Guarantee Training,HR Training,
+1485,Dispatcher,ALICE Training,HR Training,
+1486,Dispatcher,Crisis Intervention ,Police Training,8
+1487,Dispatcher,2019 Bloodborne Pathogens ,Police Training,1
+1488,Dispatcher,Hazardous Materials 2019,Police Training,1
+1489,Dispatcher,Ethical Decision Making and Intervention,Police Training,1
+1490,Dispatcher,Michigan State Police Security Awareness Training Level 1,Police Training,1
+1491,Dispatcher,Michigan State Police Security Awareness Training Level 2,Police Training,1
+1492,Dispatcher,Michigan State Police Security Awareness Training Level 3,Police Training,1
+1493,Dispatcher,Veterans Affairs S.A.V.E Training,Police Training,1
+1494,Dispatcher,TSC Watchlisting Training,Police Training,1
+1495,Dispatcher,Sexual Harassment Training,HR Training,
+1496,Dispatcher,Leaves of Absence Training,HR Training,0
+1497,Dispatcher,Diversity Training (HR),HR Training,0
+1498,Dispatcher,Customer Service Guarantee Training,HR Training,
+1499,Dispatcher,ALICE Training,HR Training,
+1500,Dispatcher,Basic LEIN for Telecommunicator,Police Training,8
+1501,Dispatcher,TSC Watchlisting Training,Police Training,1
+1502,Cadet,Sexual Harassment Training,HR Training,
+1503,Cadet,Diversity Training (HR),HR Training,0
+1504,Cadet,Customer Service Guarantee Training,HR Training,
+1505,Cadet,TSC Watchlisting Training,Police Training,1
+1506,Detective,Outdoor Rifle Training,Police Training,9
+1507,Detective,Rifle Training and Qualification,Police Training,8
+1508,Detective,Firearms Training/Qualification,Police Training,1
+1509,Detective,Firearms Training/Qualification,Police Training,1
+1510,Detective,Firearms Training/Qualification,Police Training,1
+1511,Detective,Firearms Training/Qualification,Police Training,1
+1512,Detective,Emergency Vehicle Operations (EVO),Police Training,8
+1513,Detective,Annual Child  Abuse Conference ,Police Training,24
+1514,Detective,Forensic Interviewing: The Next Step,Police Training,24
+1515,Detective,2019 Bloodborne Pathogens ,Police Training,1
+1516,Detective,Hazardous Materials 2019,Police Training,1
+1517,Detective,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+1518,Detective,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+1519,Detective,2019 Response to Resistance Scenarios,Police Training,4
+1520,Detective,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+1521,Detective,2019 Home Made Explosives Recognition,Police Training,1
+1522,Detective,2019 ALICE Methodology,Police Training,1
+1523,Detective,2019 Community Policing / Problem Solving,Police Training,1
+1524,Detective,2019 Below 100,Police Training,1
+1525,Detective,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+1526,Detective,2019 Employee Asssistance Program,Police Training,1
+1527,Detective,2019 52-1 District Court Update ,Police Training,2
+1528,Detective,2019 LEIN / MICR / Booking Update,Police Training,2
+1529,Detective,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+1530,Detective,Ethical Decision Making and Intervention,Police Training,1
+1531,Detective,2019 Accreditation Review,Police Training,1
+1532,Detective,Michigan State Police Security Awareness Training Level 1,Police Training,1
+1533,Detective,Michigan State Police Security Awareness Training Level 2,Police Training,1
+1534,Detective,Michigan State Police Security Awareness Training Level 3,Police Training,1
+1535,Detective,HAVEN's SAAM WORKSHOP- Uncovering sexual assault in domestic violence calls ,Police Training,3
+1536,Detective,Veterans Affairs S.A.V.E Training,Police Training,1
+1537,Detective,Office of Highway Safety Planning OWI Investigations,Police Training,1
+1538,Detective,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+1539,Detective,21st Annual Police Orientation ,Police Training,4.5
+1540,Detective,TSC Watchlisting Training,Police Training,1
+1541,Detective,Comprehensive Sexual Assault Investigations,Police Training,16
+1542,Detective,19-905 OWI Investigations,Police Training,1
+1543,Patrol Sergeant,Outdoor Rifle Training,Police Training,9
+1544,Patrol Sergeant,Outdoor Rifle Training,Police Training,9
+1545,Patrol Sergeant,Taser Training,Police Training,8
+1546,Patrol Sergeant,Rifle Training and Qualification,Police Training,8
+1547,Patrol Sergeant,Firearms Training/Qualification,Police Training,1
+1548,Patrol Sergeant,Firearms Training/Qualification,Police Training,1
+1549,Patrol Sergeant,Firearms Training/Qualification,Police Training,1
+1550,Patrol Sergeant,Firearms Training/Qualification,Police Training,1
+1551,Patrol Sergeant,2019 Bloodborne Pathogens ,Police Training,1
+1552,Patrol Sergeant,Hazardous Materials 2019,Police Training,1
+1553,Patrol Sergeant,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+1554,Patrol Sergeant,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+1555,Patrol Sergeant,2019 Response to Resistance Scenarios,Police Training,4
+1556,Patrol Sergeant,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+1557,Patrol Sergeant,2019 Home Made Explosives Recognition,Police Training,1
+1558,Patrol Sergeant,2019 ALICE Methodology,Police Training,1
+1559,Patrol Sergeant,2019 Community Policing / Problem Solving,Police Training,1
+1560,Patrol Sergeant,2019 Below 100,Police Training,1
+1561,Patrol Sergeant,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+1562,Patrol Sergeant,2019 Employee Asssistance Program,Police Training,1
+1563,Patrol Sergeant,2019 52-1 District Court Update ,Police Training,2
+1564,Patrol Sergeant,2019 LEIN / MICR / Booking Update,Police Training,2
+1565,Patrol Sergeant,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+1566,Patrol Sergeant,2019 Accreditation Training,Community Policing,1
+1567,Patrol Sergeant,Ethical Decision Making and Intervention,Police Training,1
+1568,Patrol Sergeant,2019 Accreditation Review,Police Training,1
+1569,Patrol Sergeant,Michigan State Police Security Awareness Training Level 1,Police Training,1
+1570,Patrol Sergeant,Michigan State Police Security Awareness Training Level 2,Police Training,1
+1571,Patrol Sergeant,Michigan State Police Security Awareness Training Level 3,Police Training,1
+1572,Patrol Sergeant,Veterans Affairs S.A.V.E Training,Police Training,1
+1573,Patrol Sergeant,MILO Simulator Training,Police Training,24
+1574,Patrol Sergeant,Office of Highway Safety Planning OWI Investigations,Police Training,1
+1575,Patrol Sergeant,TSC Watchlisting Training,Police Training,1
+1576,Patrol Sergeant,19-905 OWI Investigations,Police Training,1
+1577,Patrol Officer,REID Technique of Interview and Interrogation,Police Training,32
+1578,Patrol Officer,Taser Training,Police Training,8
+1579,Patrol Officer,Rifle Training and Qualification,Police Training,8
+1580,Patrol Officer,Rifle Training and Qualification,Police Training,8
+1581,Patrol Officer,Advanced Roadside Impaired Driving Enforcement (ARIDE),Police Training,16
+1582,Patrol Officer,South West Oakland SRT Alpena Training Week,Police Training,30
+1583,Patrol Officer,Firearms Training/Qualification,Police Training,1
+1584,Patrol Officer,Firearms Training/Qualification,Police Training,1
+1585,Patrol Officer,Firearms Training/Qualification,Police Training,1
+1586,Patrol Officer,Firearms Training/Qualification,Police Training,1
+1587,Patrol Officer,Criminal Drug Interdiction Techniques and Concealment,Police Training,27
+1588,Patrol Officer,2019 Bloodborne Pathogens ,Police Training,1
+1589,Patrol Officer,Hazardous Materials 2019,Police Training,1
+1590,Patrol Officer,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+1591,Patrol Officer,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+1592,Patrol Officer,2019 Response to Resistance Scenarios,Police Training,4
+1593,Patrol Officer,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+1594,Patrol Officer,2019 Home Made Explosives Recognition,Police Training,1
+1595,Patrol Officer,2019 ALICE Methodology,Police Training,1
+1596,Patrol Officer,2019 Community Policing / Problem Solving,Police Training,1
+1597,Patrol Officer,2019 Below 100,Police Training,1
+1598,Patrol Officer,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+1599,Patrol Officer,2019 Employee Asssistance Program,Police Training,1
+1600,Patrol Officer,2019 52-1 District Court Update ,Police Training,2
+1601,Patrol Officer,2019 LEIN / MICR / Booking Update,Police Training,2
+1602,Patrol Officer,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+1603,Patrol Officer,Ethical Decision Making and Intervention,Police Training,1
+1604,Patrol Officer,2019 Accreditation Review,Police Training,1
+1605,Patrol Officer,Michigan State Police Security Awareness Training Level 1,Police Training,1
+1606,Patrol Officer,Michigan State Police Security Awareness Training Level 2,Police Training,1
+1607,Patrol Officer,Michigan State Police Security Awareness Training Level 3,Police Training,1
+1608,Patrol Officer,Veterans Affairs S.A.V.E Training,Police Training,1
+1609,Patrol Officer,2019 OTOA Conference (Ohio Tactical Officers Association),Police Training,40
+1610,Patrol Officer,Office of Highway Safety Planning OWI Investigations,Police Training,1
+1611,Patrol Officer,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+1612,Patrol Officer,TSC Watchlisting Training,Police Training,1
+1613,Patrol Officer,FAA Part 107 Exam Preparation and Remote Pilot License,Police Training,8
+1614,Patrol Officer,19-905 OWI Investigations,Police Training,1
+1615,Patrol Officer,NAPCH National Seminar & Certifications,Police Training,48
+1616,Patrol Officer,Every Officer a Leader,Police Training,16
+1617,Patrol Officer,Outdoor Rifle Training,Police Training,9
+1618,Patrol Officer,Taser Training,Police Training,8
+1619,Patrol Officer,Rifle Training and Qualification,Police Training,8
+1620,Patrol Officer,Firearms Training/Qualification,Police Training,1
+1621,Patrol Officer,Firearms Training/Qualification,Police Training,1
+1622,Patrol Officer,Firearms Training/Qualification,Police Training,1
+1623,Patrol Officer,Emergency Vehicle Operations (EVO),Police Training,8
+1624,Patrol Officer,National Association of Professional Canine Handlers National Workshop and Conference,Police Training,72
+1625,Patrol Officer,2019 Bloodborne Pathogens ,Police Training,1
+1626,Patrol Officer,Hazardous Materials 2019,Police Training,1
+1627,Patrol Officer,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+1628,Patrol Officer,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+1629,Patrol Officer,2019 Response to Resistance Scenarios,Police Training,4
+1630,Patrol Officer,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+1631,Patrol Officer,2019 Home Made Explosives Recognition,Police Training,1
+1632,Patrol Officer,2019 ALICE Methodology,Police Training,1
+1633,Patrol Officer,2019 Community Policing / Problem Solving,Police Training,1
+1634,Patrol Officer,2019 Below 100,Police Training,1
+1635,Patrol Officer,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+1636,Patrol Officer,2019 Employee Asssistance Program,Police Training,1
+1637,Patrol Officer,2019 52-1 District Court Update ,Police Training,2
+1638,Patrol Officer,2019 LEIN / MICR / Booking Update,Police Training,2
+1639,Patrol Officer,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+1640,Patrol Officer,2019 Accreditation Training,Community Policing,1
+1641,Patrol Officer,Ethical Decision Making and Intervention,Police Training,1
+1642,Patrol Officer,2019 Accreditation Review,Police Training,1
+1643,Patrol Officer,Michigan State Police Security Awareness Training Level 1,Police Training,1
+1644,Patrol Officer,Michigan State Police Security Awareness Training Level 2,Police Training,1
+1645,Patrol Officer,Michigan State Police Security Awareness Training Level 3,Police Training,1
+1646,Patrol Officer,Fighting Fentanyl,Police Training,16
+1647,Patrol Officer,Veterans Affairs S.A.V.E Training,Police Training,1
+1648,Patrol Officer,Office of Highway Safety Planning OWI Investigations,Police Training,1
+1649,Patrol Officer,Handler Instruction and Training Seminar (HITS),Police Training,40
+1650,Patrol Officer,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+1651,Patrol Officer,Being a Trusted Leader,Police Training,8
+1652,Patrol Officer,TSC Watchlisting Training,Police Training,1
+1653,Patrol Officer,19-905 OWI Investigations,Police Training,1
+1654,Emergency Manager,2019 Bloodborne Pathogens ,Police Training,1
+1655,Emergency Manager,Hazardous Materials 2019,Police Training,1
+1656,Emergency Manager,Ethical Decision Making and Intervention,Police Training,1
+1657,Emergency Manager,Michigan State Police Security Awareness Training Level 1,Police Training,1
+1658,Emergency Manager,Michigan State Police Security Awareness Training Level 2,Police Training,1
+1659,Emergency Manager,Michigan State Police Security Awareness Training Level 3,Police Training,1
+1660,Detective,Rifle Instructor Training & Curriculum Development,Police Training,8
+1661,Detective,Rifle Training and Qualification,Police Training,8
+1662,Detective,Firearms Training/Qualification,Police Training,1
+1663,Detective,Firearms Training/Qualification,Police Training,1
+1664,Detective,Firearms Training/Qualification,Police Training,1
+1665,Detective,Taser X2 Instructor Certification,Police Training,16
+1666,Detective,2019 Bloodborne Pathogens ,Police Training,1
+1667,Detective,Hazardous Materials 2019,Police Training,1
+1668,Detective,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+1669,Detective,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+1670,Detective,2019 Response to Resistance Scenarios,Police Training,4
+1671,Detective,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+1672,Detective,2019 Home Made Explosives Recognition,Police Training,1
+1673,Detective,2019 ALICE Methodology,Police Training,1
+1674,Detective,2019 Community Policing / Problem Solving,Police Training,1
+1675,Detective,2019 Below 100,Police Training,1
+1676,Detective,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+1677,Detective,2019 Employee Asssistance Program,Police Training,1
+1678,Detective,2019 52-1 District Court Update ,Police Training,2
+1679,Detective,2019 LEIN / MICR / Booking Update,Police Training,2
+1680,Detective,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+1681,Detective,Ethical Decision Making and Intervention,Police Training,1
+1682,Detective,2019 Accreditation Review,Police Training,1
+1683,Detective,Michigan State Police Security Awareness Training Level 1,Police Training,1
+1684,Detective,Michigan State Police Security Awareness Training Level 2,Police Training,1
+1685,Detective,Michigan State Police Security Awareness Training Level 3,Police Training,1
+1686,Detective,Gracie Survival Tactics - Instructor,Police Training,40
+1687,Detective,Veterans Affairs S.A.V.E Training,Police Training,1
+1688,Detective,MILO Simulator Training,Police Training,24
+1689,Detective,Office of Highway Safety Planning OWI Investigations,Police Training,1
+1690,Detective,TSC Watchlisting Training,Police Training,1
+1691,Detective,19-905 OWI Investigations,Police Training,1
+1692,Detective,Response to Resistance Annual Cadre Meeting,Police Training,8
+1693,Detective,Medicolegal Investigation of Death,Police Training,24
+1694,Detective,Outdoor Rifle Training,Police Training,9
+1695,Detective,Outdoor Rifle Training,Police Training,9
+1696,Detective,Rifle Training and Qualification,Police Training,8
+1697,Detective,Michigan Liquor Law Enforcement,Police Training,8
+1698,Detective,Firearms Training/Qualification,Police Training,1
+1699,Detective,Firearms Training/Qualification,Police Training,1
+1700,Detective,Firearms Training/Qualification,Police Training,1
+1701,Detective,Emergency Vehicle Operations (EVO),Police Training,8
+1702,Detective,LSI-SCAN Statement Analysis; Basic and Advanced Workshop,Police Training,32
+1703,Detective,2019 Bloodborne Pathogens ,Police Training,1
+1704,Detective,Hazardous Materials 2019,Police Training,1
+1705,Detective,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+1706,Detective,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+1707,Detective,2019 Response to Resistance Scenarios,Police Training,4
+1708,Detective,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+1709,Detective,2019 Home Made Explosives Recognition,Police Training,1
+1710,Detective,2019 ALICE Methodology,Police Training,1
+1711,Detective,2019 Community Policing / Problem Solving,Police Training,1
+1712,Detective,2019 Below 100,Police Training,1
+1713,Detective,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+1714,Detective,2019 Employee Asssistance Program,Police Training,1
+1715,Detective,2019 52-1 District Court Update ,Police Training,2
+1716,Detective,2019 LEIN / MICR / Booking Update,Police Training,2
+1717,Detective,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+1718,Detective,2019 Accreditation Training,Community Policing,1
+1719,Detective,Ethical Decision Making and Intervention,Police Training,1
+1720,Detective,2019 Accreditation Review,Police Training,1
+1721,Detective,Michigan State Police Security Awareness Training Level 1,Police Training,1
+1722,Detective,Michigan State Police Security Awareness Training Level 2,Police Training,1
+1723,Detective,Michigan State Police Security Awareness Training Level 3,Police Training,1
+1724,Detective,Veterans Affairs S.A.V.E Training,Police Training,1
+1725,Detective,Office of Highway Safety Planning OWI Investigations,Police Training,1
+1726,Detective,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+1727,Detective,TSC Watchlisting Training,Police Training,1
+1728,Detective,19-905 OWI Investigations,Police Training,1
+1729,Detective,2020 Community Policing and Problem Solving,Police Training,1
+1730,Dispatcher,Sexual Harassment Training,HR Training,
+1731,Dispatcher,Leaves of Absence Training,HR Training,0
+1732,Dispatcher,Diversity Training (HR),HR Training,0
+1733,Dispatcher,Customer Service Guarantee Training,HR Training,
+1734,Dispatcher,ALICE Training,HR Training,
+1735,Patrol Officer,Rifle Training and Qualification,Police Training,8
+1736,Patrol Officer,Rifle Training and Qualification,Police Training,8
+1737,Patrol Officer,Rifle Training and Qualification,Police Training,8
+1738,Patrol Officer,Firearms Training/Qualification,Police Training,1
+1739,Patrol Officer,Firearms Training/Qualification,Police Training,1
+1740,Patrol Officer,Firearms Training/Qualification,Police Training,1
+1741,Patrol Officer,Firearms Training/Qualification,Police Training,1
+1742,Patrol Officer,Firearms Training/Qualification,Police Training,1
+1743,Patrol Officer,Firearms Training/Qualification,Police Training,1
+1744,Patrol Officer,Emergency Vehicle Operations (EVO),Police Training,8
+1745,Patrol Officer,2019 Bloodborne Pathogens ,Police Training,1
+1746,Patrol Officer,Hazardous Materials 2019,Police Training,1
+1747,Patrol Officer,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+1748,Patrol Officer,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+1749,Patrol Officer,2019 Response to Resistance Scenarios,Police Training,4
+1750,Patrol Officer,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+1751,Patrol Officer,2019 Home Made Explosives Recognition,Police Training,1
+1752,Patrol Officer,2019 ALICE Methodology,Police Training,1
+1753,Patrol Officer,2019 Community Policing / Problem Solving,Police Training,1
+1754,Patrol Officer,2019 Below 100,Police Training,1
+1755,Patrol Officer,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+1756,Patrol Officer,2019 Employee Asssistance Program,Police Training,1
+1757,Patrol Officer,2019 52-1 District Court Update ,Police Training,2
+1758,Patrol Officer,2019 LEIN / MICR / Booking Update,Police Training,2
+1759,Patrol Officer,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+1760,Patrol Officer,2019 Accreditation Training,Community Policing,1
+1761,Patrol Officer,Ethical Decision Making and Intervention,Police Training,1
+1762,Patrol Officer,2019 Accreditation Review,Police Training,1
+1763,Patrol Officer,Michigan State Police Security Awareness Training Level 1,Police Training,1
+1764,Patrol Officer,Michigan State Police Security Awareness Training Level 2,Police Training,1
+1765,Patrol Officer,Michigan State Police Security Awareness Training Level 3,Police Training,1
+1766,Patrol Officer,EVO Police Vehicle Operation - Instructor,Police Training,40
+1767,Patrol Officer,Veterans Affairs S.A.V.E Training,Police Training,1
+1768,Patrol Officer,Office of Highway Safety Planning OWI Investigations,Police Training,1
+1769,Patrol Officer,TSC Watchlisting Training,Police Training,1
+1770,Patrol Officer,19-905 OWI Investigations,Police Training,1
+1771,Cadet,Sexual Harassment Training,HR Training,
+1772,Cadet,Diversity Training (HR),HR Training,0
+1773,Cadet,Customer Service Guarantee Training,HR Training,
+1774,Public Safety Budget Analyst,2019 Bloodborne Pathogens ,Police Training,1
+1775,Public Safety Budget Analyst,Hazardous Materials 2019,Police Training,1
+1776,Public Safety Budget Analyst,Hazardous Materials 2019,Police Training,1
+1777,Public Safety Budget Analyst,Ethical Decision Making and Intervention,Police Training,1
+1778,Public Safety Budget Analyst,Michigan State Police Security Awareness Training Level 1,Police Training,1
+1779,Public Safety Budget Analyst,Michigan State Police Security Awareness Training Level 2,Police Training,1
+1780,Public Safety Budget Analyst,Michigan State Police Security Awareness Training Level 3,Police Training,1
+1781,Detective,Medicolegal Investigation of Death,Police Training,24
+1782,Detective,Exploring the Sexual Offender & Physical Abuser ,Police Training,18
+1783,Detective,Outdoor Rifle Training,Police Training,9
+1784,Detective,Outdoor Rifle Training,Police Training,9
+1785,Detective,Child Death Investigation,Police Training,24
+1786,Detective,Rifle Training and Qualification,Police Training,8
+1787,Detective,Background Investigations for Police Applicants,Police Training,9
+1788,Detective,Firearms Training/Qualification,Police Training,1
+1789,Detective,Firearms Training/Qualification,Police Training,1
+1790,Detective,Firearms Training/Qualification,Police Training,1
+1791,Detective,Firearms Training/Qualification,Police Training,1
+1792,Detective,Evidence Technician Training,Police Training,99
+1793,Detective,Emergency Vehicle Operations (EVO),Police Training,8
+1794,Detective,Annual Child  Abuse Conference ,Police Training,24
+1795,Detective,Forensic Interviewing: The Next Step,Police Training,24
+1796,Detective,2019 Bloodborne Pathogens ,Police Training,1
+1797,Detective,Hazardous Materials 2019,Police Training,1
+1798,Detective,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+1799,Detective,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+1800,Detective,2019 Response to Resistance Scenarios,Police Training,4
+1801,Detective,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+1802,Detective,2019 Home Made Explosives Recognition,Police Training,1
+1803,Detective,2019 ALICE Methodology,Police Training,1
+1804,Detective,2019 Community Policing / Problem Solving,Police Training,1
+1805,Detective,2019 Below 100,Police Training,1
+1806,Detective,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+1807,Detective,2019 Employee Asssistance Program,Police Training,1
+1808,Detective,2019 52-1 District Court Update ,Police Training,2
+1809,Detective,2019 LEIN / MICR / Booking Update,Police Training,2
+1810,Detective,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+1811,Detective,Ethical Decision Making and Intervention,Police Training,1
+1812,Detective,2019 Accreditation Review,Police Training,1
+1813,Detective,Michigan State Police Security Awareness Training Level 1,Police Training,1
+1814,Detective,Michigan State Police Security Awareness Training Level 2,Police Training,1
+1815,Detective,Michigan State Police Security Awareness Training Level 3,Police Training,1
+1816,Detective,Sex Trafficking Investigations,Police Training,8
+1817,Detective,Oakland County Child Abuse and Neglect,Police Training,3
+1818,Detective,Veterans Affairs S.A.V.E Training,Police Training,1
+1819,Detective,Child Abuse Basics for Prosecutors,Police Training,8
+1820,Detective,Office of Highway Safety Planning OWI Investigations,Police Training,1
+1821,Detective,Leading Without Rank: Leadership for the Line Officer,Police Training,8
+1822,Detective,21st Annual Police Orientation ,Police Training,4.5
+1823,Detective,TSC Watchlisting Training,Police Training,1
+1824,Detective,19-905 OWI Investigations,Police Training,1
+1825,Detective,2020 Community Policing and Problem Solving,Police Training,1
+1826,Detective,Human Trafficking,Police Training,16
+1827,Patrol Officer,Datamaster DMT,Police Training,2.5
+1828,Patrol Officer,Every Officer a Leader,Police Training,16
+1829,Patrol Officer,Taser Training,Police Training,8
+1830,Patrol Officer,Rifle Training and Qualification,Police Training,8
+1831,Patrol Officer,Rifle Training and Qualification,Police Training,8
+1832,Patrol Officer,Rifle Training and Qualification,Police Training,8
+1833,Patrol Officer,OakTac Active Shooter Response Training,Police Training,16
+1834,Patrol Officer,Firearms Training/Qualification,Police Training,1
+1835,Patrol Officer,Firearms Training/Qualification,Police Training,1
+1836,Patrol Officer,Firearms Training/Qualification,Police Training,1
+1837,Patrol Officer,Criminal Drug Interdiction Techniques and Concealment,Police Training,27
+1838,Patrol Officer,2019 Bloodborne Pathogens ,Police Training,1
+1839,Patrol Officer,Hazardous Materials 2019,Police Training,1
+1840,Patrol Officer,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+1841,Patrol Officer,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+1842,Patrol Officer,2019 Response to Resistance Scenarios,Police Training,4
+1843,Patrol Officer,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+1844,Patrol Officer,2019 Home Made Explosives Recognition,Police Training,1
+1845,Patrol Officer,2019 ALICE Methodology,Police Training,1
+1846,Patrol Officer,2019 Community Policing / Problem Solving,Police Training,1
+1847,Patrol Officer,2019 Below 100,Police Training,1
+1848,Patrol Officer,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+1849,Patrol Officer,2019 Employee Asssistance Program,Police Training,1
+1850,Patrol Officer,2019 52-1 District Court Update ,Police Training,2
+1851,Patrol Officer,2019 LEIN / MICR / Booking Update,Police Training,2
+1852,Patrol Officer,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+1853,Patrol Officer,2019 Accreditation Training,Community Policing,1
+1854,Patrol Officer,Ethical Decision Making and Intervention,Police Training,1
+1855,Patrol Officer,2019 Accreditation Review,Police Training,1
+1856,Patrol Officer,Michigan State Police Security Awareness Training Level 1,Police Training,1
+1857,Patrol Officer,Michigan State Police Security Awareness Training Level 2,Police Training,1
+1858,Patrol Officer,Michigan State Police Security Awareness Training Level 3,Police Training,1
+1859,Patrol Officer,Veterans Affairs S.A.V.E Training,Police Training,1
+1860,Patrol Officer,Office of Highway Safety Planning OWI Investigations,Police Training,1
+1861,Patrol Officer,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+1862,Patrol Officer,TSC Watchlisting Training,Police Training,1
+1863,Patrol Officer,19-905 OWI Investigations,Police Training,1
+1864,Administrative Assistant,2019 Bloodborne Pathogens ,Police Training,1
+1865,Administrative Assistant,Hazardous Materials 2019,Police Training,1
+1866,Administrative Assistant,Ethical Decision Making and Intervention,Police Training,1
+1867,Administrative Assistant,Michigan State Police Security Awareness Training Level 1,Police Training,1
+1868,Administrative Assistant,Michigan State Police Security Awareness Training Level 2,Police Training,1
+1869,Patrol Sergeant,Rifle Training and Qualification,Police Training,8
+1870,Patrol Sergeant,Rifle Training and Qualification,Police Training,8
+1871,Patrol Sergeant,Advanced Roadside Impaired Driving Enforcement (ARIDE),Police Training,16
+1872,Patrol Sergeant,Firearms Training/Qualification,Police Training,1
+1873,Patrol Sergeant,Firearms Training/Qualification,Police Training,1
+1874,Patrol Sergeant,Firearms Training/Qualification,Police Training,1
+1875,Patrol Sergeant,Emergency Vehicle Operations (EVO),Police Training,8
+1876,Patrol Sergeant,2019 Bloodborne Pathogens ,Police Training,1
+1877,Patrol Sergeant,Hazardous Materials 2019,Police Training,1
+1878,Patrol Sergeant,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+1879,Patrol Sergeant,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+1880,Patrol Sergeant,2019 Response to Resistance Scenarios,Police Training,4
+1881,Patrol Sergeant,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+1882,Patrol Sergeant,2019 Home Made Explosives Recognition,Police Training,1
+1883,Patrol Sergeant,2019 ALICE Methodology,Police Training,1
+1884,Patrol Sergeant,2019 Community Policing / Problem Solving,Police Training,1
+1885,Patrol Sergeant,2019 Below 100,Police Training,1
+1886,Patrol Sergeant,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+1887,Patrol Sergeant,2019 Employee Asssistance Program,Police Training,1
+1888,Patrol Sergeant,2019 52-1 District Court Update ,Police Training,2
+1889,Patrol Sergeant,2019 LEIN / MICR / Booking Update,Police Training,2
+1890,Patrol Sergeant,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+1891,Patrol Sergeant,2019 Accreditation Training,Community Policing,1
+1892,Patrol Sergeant,Ethical Decision Making and Intervention,Police Training,1
+1893,Patrol Sergeant,2019 Accreditation Review,Police Training,1
+1894,Patrol Sergeant,Michigan State Police Security Awareness Training Level 1,Police Training,1
+1895,Patrol Sergeant,Michigan State Police Security Awareness Training Level 2,Police Training,1
+1896,Patrol Sergeant,Michigan State Police Security Awareness Training Level 3,Police Training,1
+1897,Patrol Sergeant,Bulletproof: Policing in Today's Society,Police Training,8
+1898,Patrol Sergeant,4th Annual Active Assailant Confrence,Police Training,16
+1899,Patrol Sergeant,Veterans Affairs S.A.V.E Training,Police Training,1
+1900,Patrol Sergeant,Office of Highway Safety Planning OWI Investigations,Police Training,1
+1901,Patrol Sergeant,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+1902,Patrol Sergeant,TSC Watchlisting Training,Police Training,1
+1903,Patrol Sergeant,Evolutionary Leadership,Police Training,8
+1904,Patrol Sergeant,19-905 OWI Investigations,Police Training,1
+1905,Patrol Sergeant,Outdoor Rifle Training,Police Training,9
+1906,Patrol Sergeant,Outdoor Rifle Training,Police Training,9
+1907,Patrol Sergeant,Rifle Training and Qualification,Police Training,8
+1908,Patrol Sergeant,Rifle Training and Qualification,Police Training,8
+1909,Patrol Sergeant,Advanced Roadside Impaired Driving Enforcement (ARIDE),Police Training,16
+1910,Patrol Sergeant,Firearms Training/Qualification,Police Training,1
+1911,Patrol Sergeant,Firearms Training/Qualification,Police Training,1
+1912,Patrol Sergeant,Firearms Training/Qualification,Police Training,1
+1913,Patrol Sergeant,Firearms Training/Qualification,Police Training,1
+1914,Patrol Sergeant,Hazardous Materials 2019,Police Training,1
+1915,Patrol Sergeant,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+1916,Patrol Sergeant,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+1917,Patrol Sergeant,2019 Response to Resistance Scenarios,Police Training,4
+1918,Patrol Sergeant,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+1919,Patrol Sergeant,2019 Home Made Explosives Recognition,Police Training,1
+1920,Patrol Sergeant,2019 ALICE Methodology,Police Training,1
+1921,Patrol Sergeant,2019 Community Policing / Problem Solving,Police Training,1
+1922,Patrol Sergeant,2019 Below 100,Police Training,1
+1923,Patrol Sergeant,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+1924,Patrol Sergeant,2019 Employee Asssistance Program,Police Training,1
+1925,Patrol Sergeant,2019 52-1 District Court Update ,Police Training,2
+1926,Patrol Sergeant,2019 LEIN / MICR / Booking Update,Police Training,2
+1927,Patrol Sergeant,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+1928,Patrol Sergeant,Ethical Decision Making and Intervention,Police Training,1
+1929,Patrol Sergeant,2019 Accreditation Review,Police Training,1
+1930,Patrol Sergeant,Michigan State Police Security Awareness Training Level 1,Police Training,1
+1931,Patrol Sergeant,Michigan State Police Security Awareness Training Level 2,Police Training,1
+1932,Patrol Sergeant,Michigan State Police Security Awareness Training Level 3,Police Training,1
+1933,Patrol Sergeant,4th Annual Active Assailant Confrence,Police Training,16
+1934,Patrol Sergeant,Veterans Affairs S.A.V.E Training,Police Training,1
+1935,Patrol Sergeant,Office of Highway Safety Planning OWI Investigations,Police Training,1
+1936,Patrol Sergeant,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+1937,Patrol Sergeant,TSC Watchlisting Training,Police Training,1
+1938,Patrol Sergeant,19-905 OWI Investigations,Police Training,1
+1939,Detective,Outdoor Rifle Training,Police Training,9
+1940,Detective,Rifle Training and Qualification,Police Training,8
+1941,Detective,Rifle Training and Qualification,Police Training,8
+1942,Detective,Firearms Training/Qualification,Police Training,1
+1943,Detective,Firearms Training/Qualification,Police Training,1
+1944,Detective,Firearms Training/Qualification,Police Training,1
+1945,Detective,Emergency Vehicle Operations (EVO),Police Training,8
+1946,Detective,2019 Bloodborne Pathogens ,Police Training,1
+1947,Detective,Hazardous Materials 2019,Police Training,1
+1948,Detective,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+1949,Detective,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+1950,Detective,2019 Response to Resistance Scenarios,Police Training,4
+1951,Detective,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+1952,Detective,2019 Home Made Explosives Recognition,Police Training,1
+1953,Detective,2019 ALICE Methodology,Police Training,1
+1954,Detective,2019 Community Policing / Problem Solving,Police Training,1
+1955,Detective,2019 Below 100,Police Training,1
+1956,Detective,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+1957,Detective,2019 Employee Asssistance Program,Police Training,1
+1958,Detective,2019 52-1 District Court Update ,Police Training,2
+1959,Detective,2019 LEIN / MICR / Booking Update,Police Training,2
+1960,Detective,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+1961,Detective,2019 Accreditation Training,Community Policing,1
+1962,Detective,Ethical Decision Making and Intervention,Police Training,1
+1963,Detective,2019 Accreditation Review,Police Training,1
+1964,Detective,Michigan State Police Security Awareness Training Level 1,Police Training,1
+1965,Detective,Michigan State Police Security Awareness Training Level 2,Police Training,1
+1966,Detective,Michigan State Police Security Awareness Training Level 3,Police Training,1
+1967,Detective,Veterans Affairs S.A.V.E Training,Police Training,1
+1968,Detective,Office of Highway Safety Planning OWI Investigations,Police Training,1
+1969,Detective,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+1970,Detective,TSC Watchlisting Training,Police Training,1
+1971,Detective,19-905 OWI Investigations,Police Training,1
+1972,Assistant Chief of Police,Firearms Training/Qualification,Police Training,1
+1973,Assistant Chief of Police,Firearms Training/Qualification,Police Training,1
+1974,Assistant Chief of Police,Firearms Training/Qualification,Police Training,1
+1975,Assistant Chief of Police,Firearms Training/Qualification,Police Training,1
+1976,Assistant Chief of Police,Firearms Training/Qualification,Police Training,1
+1977,Assistant Chief of Police,Firearms Training/Qualification,Police Training,1
+1978,Assistant Chief of Police,Firearms Training/Qualification,Police Training,1
+1979,Assistant Chief of Police,2019 Bloodborne Pathogens ,Police Training,1
+1980,Assistant Chief of Police,Hazardous Materials 2019,Police Training,1
+1981,Assistant Chief of Police,Ethical Decision Making and Intervention,Police Training,1
+1982,Assistant Chief of Police,2019 MACP Conference,Police Training,32
+1983,Assistant Chief of Police,Michigan State Police Security Awareness Training Level 1,Police Training,1
+1984,Assistant Chief of Police,Michigan State Police Security Awareness Training Level 2,Police Training,1
+1985,Assistant Chief of Police,Internal Affairs Investigations: Criminal vs. Administrative Investigations,Police Training,1
+1986,Assistant Chief of Police,Veterans Affairs S.A.V.E Training,Police Training,1
+1987,Assistant Chief of Police,Office of Highway Safety Planning OWI Investigations,Police Training,1
+1988,Assistant Chief of Police,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+1989,Assistant Chief of Police,TSC Watchlisting Training,Police Training,1
+1990,Assistant Chief of Police,19-905 OWI Investigations,Police Training,1
+1991,Detective,Outdoor Rifle Training,Police Training,9
+1992,Detective,Taser Training,Police Training,8
+1993,Detective,Rifle Training and Qualification,Police Training,8
+1994,Detective,Firearms Training/Qualification,Police Training,1
+1995,Detective,Firearms Training/Qualification,Police Training,1
+1996,Detective,Firearms Training/Qualification,Police Training,1
+1997,Detective,2019 Bloodborne Pathogens ,Police Training,1
+1998,Detective,Hazardous Materials 2019,Police Training,1
+1999,Detective,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+2000,Detective,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+2001,Detective,2019 Response to Resistance Scenarios,Police Training,4
+2002,Detective,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+2003,Detective,2019 Home Made Explosives Recognition,Police Training,1
+2004,Detective,2019 ALICE Methodology,Police Training,1
+2005,Detective,2019 Community Policing / Problem Solving,Police Training,1
+2006,Detective,2019 Below 100,Police Training,1
+2007,Detective,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+2008,Detective,2019 Employee Asssistance Program,Police Training,1
+2009,Detective,2019 52-1 District Court Update ,Police Training,2
+2010,Detective,2019 LEIN / MICR / Booking Update,Police Training,2
+2011,Detective,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+2012,Detective,2019 Accreditation Training,Community Policing,1
+2013,Detective,Ethical Decision Making and Intervention,Police Training,1
+2014,Detective,2019 Accreditation Review,Police Training,1
+2015,Detective,Michigan State Police Security Awareness Training Level 1,Police Training,1
+2016,Detective,Michigan State Police Security Awareness Training Level 2,Police Training,1
+2017,Detective,Michigan State Police Security Awareness Training Level 3,Police Training,1
+2018,Detective,Veterans Affairs S.A.V.E Training,Police Training,1
+2019,Detective,Office of Highway Safety Planning OWI Investigations,Police Training,1
+2020,Detective,TSC Watchlisting Training,Police Training,1
+2021,Detective,19-905 OWI Investigations,Police Training,1
+2022,Cadet,Customer Service Guarantee Training,HR Training,
+2023,Patrol Officer,Datamaster DMT,Police Training,2.5
+2024,Patrol Officer,Rifle Instructor Training & Curriculum Development,Police Training,8
+2025,Patrol Officer,Patrol Rifle Instructor,Police Training,45
+2026,Patrol Officer,Outdoor Rifle Training,Police Training,9
+2027,Patrol Officer,Rifle Training and Qualification,Police Training,8
+2028,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2029,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2030,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2031,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2032,Patrol Officer,Emergency Vehicle Operations (EVO),Police Training,8
+2033,Patrol Officer,2019 Bloodborne Pathogens ,Police Training,1
+2034,Patrol Officer,Hazardous Materials 2019,Police Training,1
+2035,Patrol Officer,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+2036,Patrol Officer,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+2037,Patrol Officer,2019 Response to Resistance Scenarios,Police Training,4
+2038,Patrol Officer,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+2039,Patrol Officer,2019 Home Made Explosives Recognition,Police Training,1
+2040,Patrol Officer,2019 ALICE Methodology,Police Training,1
+2041,Patrol Officer,2019 Community Policing / Problem Solving,Police Training,1
+2042,Patrol Officer,2019 Below 100,Police Training,1
+2043,Patrol Officer,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+2044,Patrol Officer,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+2045,Patrol Officer,2019 Employee Asssistance Program,Police Training,1
+2046,Patrol Officer,2019 52-1 District Court Update ,Police Training,2
+2047,Patrol Officer,2019 LEIN / MICR / Booking Update,Police Training,2
+2048,Patrol Officer,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+2049,Patrol Officer,Ethical Decision Making and Intervention,Police Training,1
+2050,Patrol Officer,2019 Accreditation Review,Police Training,1
+2051,Patrol Officer,Michigan State Police Security Awareness Training Level 1,Police Training,1
+2052,Patrol Officer,Michigan State Police Security Awareness Training Level 2,Police Training,1
+2053,Patrol Officer,Michigan State Police Security Awareness Training Level 3,Police Training,1
+2054,Patrol Officer,Bulletproof: Policing in Today's Society,Police Training,8
+2055,Patrol Officer,Gracie Survival Tactics - Instructor,Police Training,40
+2056,Patrol Officer,4th Annual Active Assailant Confrence,Police Training,16
+2057,Patrol Officer,Veterans Affairs S.A.V.E Training,Police Training,1
+2058,Patrol Officer,Pistol Instructor School,Police Training,40
+2059,Patrol Officer,MILO Simulator Training,Police Training,24
+2060,Patrol Officer,Office of Highway Safety Planning OWI Investigations,Police Training,1
+2061,Patrol Officer,TSC Watchlisting Training,Police Training,1
+2062,Patrol Officer,19-905 OWI Investigations,Police Training,1
+2063,Patrol Officer,Response to Resistance Annual Cadre Meeting,Police Training,8
+2064,Dispatcher,Sexual Harassment Training,HR Training,
+2065,Dispatcher,Leaves of Absence Training,HR Training,0
+2066,Dispatcher,Diversity Training (HR),HR Training,0
+2067,Dispatcher,Customer Service Guarantee Training,HR Training,
+2068,Dispatcher,ALICE Training,HR Training,
+2069,Patrol Officer,REID Technique of Interview and Interrogation,Police Training,32
+2070,Patrol Officer,Exploring the Sexual Offender & Physical Abuser ,Police Training,18
+2071,Patrol Officer,Outdoor Rifle Training,Police Training,9
+2072,Patrol Officer,Rifle Training and Qualification,Police Training,8
+2073,Patrol Officer,Rifle Training and Qualification,Police Training,8
+2074,Patrol Officer,Rifle Training and Qualification,Police Training,8
+2075,Patrol Officer,Rifle Training and Qualification,Police Training,8
+2076,Patrol Officer,Rifle Training and Qualification,Police Training,8
+2077,Patrol Officer,Rifle Training and Qualification,Police Training,8
+2078,Patrol Officer,Rifle Training and Qualification,Police Training,8
+2079,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2080,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2081,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2082,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2083,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2084,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2085,Patrol Officer,Emergency Vehicle Operations (EVO),Police Training,8
+2086,Patrol Officer,MSP Finger Printing Training Video,Police Training,0.5
+2087,Patrol Officer,2019 Bloodborne Pathogens ,Police Training,1
+2088,Patrol Officer,Hazardous Materials 2019,Police Training,1
+2089,Patrol Officer,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+2090,Patrol Officer,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+2091,Patrol Officer,2019 Response to Resistance Scenarios,Police Training,4
+2092,Patrol Officer,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+2093,Patrol Officer,2019 Home Made Explosives Recognition,Police Training,1
+2094,Patrol Officer,2019 ALICE Methodology,Police Training,1
+2095,Patrol Officer,2019 Community Policing / Problem Solving,Police Training,1
+2096,Patrol Officer,2019 Below 100,Police Training,1
+2097,Patrol Officer,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+2098,Patrol Officer,2019 Employee Asssistance Program,Police Training,1
+2099,Patrol Officer,2019 52-1 District Court Update ,Police Training,2
+2100,Patrol Officer,2019 LEIN / MICR / Booking Update,Police Training,2
+2101,Patrol Officer,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+2102,Patrol Officer,Ethical Decision Making and Intervention,Police Training,1
+2103,Patrol Officer,2019 Accreditation Review,Police Training,1
+2104,Patrol Officer,Michigan State Police Security Awareness Training Level 1,Police Training,1
+2105,Patrol Officer,Michigan State Police Security Awareness Training Level 2,Police Training,1
+2106,Patrol Officer,Michigan State Police Security Awareness Training Level 3,Police Training,1
+2107,Patrol Officer,Veterans Affairs S.A.V.E Training,Police Training,1
+2108,Patrol Officer,Crisis Intervention Team (CIT) Training,Police Training,40
+2109,Patrol Officer,Office of Highway Safety Planning OWI Investigations,Police Training,1
+2110,Patrol Officer,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+2111,Patrol Officer,TSC Watchlisting Training,Police Training,1
+2112,Patrol Officer,19-905 OWI Investigations,Police Training,1
+2113,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2114,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2115,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2116,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2117,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2118,Patrol Officer,Emergency Vehicle Operations (EVO),Police Training,8
+2119,Patrol Officer,IACP Women's Leadership Institute (WLI),Police Training,40
+2120,Patrol Officer,2019 Bloodborne Pathogens ,Police Training,1
+2121,Patrol Officer,Hazardous Materials 2019,Police Training,1
+2122,Patrol Officer,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+2123,Patrol Officer,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+2124,Patrol Officer,2019 Response to Resistance Scenarios,Police Training,4
+2125,Patrol Officer,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+2126,Patrol Officer,2019 Home Made Explosives Recognition,Police Training,1
+2127,Patrol Officer,2019 ALICE Methodology,Police Training,1
+2128,Patrol Officer,2019 Community Policing / Problem Solving,Police Training,1
+2129,Patrol Officer,2019 Below 100,Police Training,1
+2130,Patrol Officer,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+2131,Patrol Officer,2019 Employee Asssistance Program,Police Training,1
+2132,Patrol Officer,2019 52-1 District Court Update ,Police Training,2
+2133,Patrol Officer,2019 LEIN / MICR / Booking Update,Police Training,2
+2134,Patrol Officer,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+2135,Patrol Officer,2019 Accreditation Training,Community Policing,1
+2136,Patrol Officer,Ethical Decision Making and Intervention,Police Training,1
+2137,Patrol Officer,2019 Accreditation Review,Police Training,1
+2138,Patrol Officer,Michigan State Police Security Awareness Training Level 1,Police Training,1
+2139,Patrol Officer,Michigan State Police Security Awareness Training Level 2,Police Training,1
+2140,Patrol Officer,Michigan State Police Security Awareness Training Level 3,Police Training,1
+2141,Patrol Officer,Bulletproof: Policing in Today's Society,Police Training,8
+2142,Patrol Officer,Strategies & Tactics of Patrol Stops - Instructor Recertification,Police Training,16
+2143,Patrol Officer,Veterans Affairs S.A.V.E Training,Police Training,1
+2144,Patrol Officer,Office of Highway Safety Planning OWI Investigations,Police Training,1
+2145,Patrol Officer,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+2146,Patrol Officer,TSC Watchlisting Training,Police Training,1
+2147,Patrol Officer,19-905 OWI Investigations,Police Training,1
+2148,Patrol Officer,Response to Resistance Annual Cadre Meeting,Police Training,8
+2149,Patrol Officer,REID Technique of Interview and Interrogation,Police Training,32
+2150,Patrol Officer,Outdoor Rifle Training,Police Training,9
+2151,Patrol Officer,Basic Detective School,Police Training,40
+2152,Patrol Officer,Rifle Training and Qualification,Police Training,8
+2153,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2154,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2155,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2156,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2157,Patrol Officer,Emergency Vehicle Operations (EVO),Police Training,8
+2158,Patrol Officer,2019 Bloodborne Pathogens ,Police Training,1
+2159,Patrol Officer,Hazardous Materials 2019,Police Training,1
+2160,Patrol Officer,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+2161,Patrol Officer,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+2162,Patrol Officer,2019 Response to Resistance Scenarios,Police Training,4
+2163,Patrol Officer,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+2164,Patrol Officer,2019 Home Made Explosives Recognition,Police Training,1
+2165,Patrol Officer,2019 ALICE Methodology,Police Training,1
+2166,Patrol Officer,2019 Community Policing / Problem Solving,Police Training,1
+2167,Patrol Officer,2019 Below 100,Police Training,1
+2168,Patrol Officer,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+2169,Patrol Officer,2019 Employee Asssistance Program,Police Training,1
+2170,Patrol Officer,2019 52-1 District Court Update ,Police Training,2
+2171,Patrol Officer,2019 LEIN / MICR / Booking Update,Police Training,2
+2172,Patrol Officer,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+2173,Patrol Officer,Ethical Decision Making and Intervention,Police Training,1
+2174,Patrol Officer,2019 Accreditation Review,Police Training,1
+2175,Patrol Officer,Michigan State Police Security Awareness Training Level 1,Police Training,1
+2176,Patrol Officer,Michigan State Police Security Awareness Training Level 2,Police Training,1
+2177,Patrol Officer,Michigan State Police Security Awareness Training Level 3,Police Training,1
+2178,Patrol Officer,Veterans Affairs S.A.V.E Training,Police Training,1
+2179,Patrol Officer,Office of Highway Safety Planning OWI Investigations,Police Training,1
+2180,Patrol Officer,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+2181,Patrol Officer,TSC Watchlisting Training,Police Training,1
+2182,Patrol Officer,19-905 OWI Investigations,Police Training,1
+2183,Patrol Officer,2020 Community Policing and Problem Solving,Police Training,1
+2184,Patrol Officer,K-9 Academy,Police Training,24
+2185,Patrol Officer,NAPCH National Seminar & Certifications,Police Training,48
+2186,Patrol Officer,Exploring the Sexual Offender & Physical Abuser ,Police Training,18
+2187,Patrol Officer,Taser Training,Police Training,8
+2188,Patrol Officer,Rifle Training and Qualification,Police Training,8
+2189,Patrol Officer,Rifle Training and Qualification,Police Training,8
+2190,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2191,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2192,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2193,Patrol Officer,National Association of Professional Canine Handlers National Workshop and Conference,Police Training,72
+2194,Patrol Officer,2019 Bloodborne Pathogens ,Police Training,1
+2195,Patrol Officer,Hazardous Materials 2019,Police Training,1
+2196,Patrol Officer,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+2197,Patrol Officer,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+2198,Patrol Officer,2019 Response to Resistance Scenarios,Police Training,4
+2199,Patrol Officer,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+2200,Patrol Officer,2019 Home Made Explosives Recognition,Police Training,1
+2201,Patrol Officer,2019 ALICE Methodology,Police Training,1
+2202,Patrol Officer,2019 Community Policing / Problem Solving,Police Training,1
+2203,Patrol Officer,2019 Below 100,Police Training,1
+2204,Patrol Officer,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+2205,Patrol Officer,2019 Employee Asssistance Program,Police Training,1
+2206,Patrol Officer,2019 52-1 District Court Update ,Police Training,2
+2207,Patrol Officer,2019 LEIN / MICR / Booking Update,Police Training,2
+2208,Patrol Officer,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+2209,Patrol Officer,2019 Accreditation Training,Community Policing,1
+2210,Patrol Officer,Ethical Decision Making and Intervention,Police Training,1
+2211,Patrol Officer,2019 Accreditation Review,Police Training,1
+2212,Patrol Officer,Michigan State Police Security Awareness Training Level 1,Police Training,1
+2213,Patrol Officer,Michigan State Police Security Awareness Training Level 2,Police Training,1
+2214,Patrol Officer,Michigan State Police Security Awareness Training Level 3,Police Training,1
+2215,Patrol Officer,Veterans Affairs S.A.V.E Training,Police Training,1
+2216,Patrol Officer,Office of Highway Safety Planning OWI Investigations,Police Training,1
+2217,Patrol Officer,TSC Watchlisting Training,Police Training,1
+2218,Patrol Officer,Remote Collar Training Court for the Police Canine,Police Training,24
+2219,Patrol Officer,19-905 OWI Investigations,Police Training,1
+2220,Patrol Sergeant,Every Officer a Leader,Police Training,16
+2221,Patrol Sergeant,Rifle Training and Qualification,Police Training,8
+2222,Patrol Sergeant,Rifle Training and Qualification,Police Training,8
+2223,Patrol Sergeant,Firearms Training/Qualification,Police Training,1
+2224,Patrol Sergeant,Firearms Training/Qualification,Police Training,1
+2225,Patrol Sergeant,Firearms Training/Qualification,Police Training,1
+2226,Patrol Sergeant,Firearms Training/Qualification,Police Training,1
+2227,Patrol Sergeant,Firearms Training/Qualification,Police Training,1
+2228,Patrol Sergeant,2019 Bloodborne Pathogens ,Police Training,1
+2229,Patrol Sergeant,Hazardous Materials 2019,Police Training,1
+2230,Patrol Sergeant,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+2231,Patrol Sergeant,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+2232,Patrol Sergeant,2019 Response to Resistance Scenarios,Police Training,4
+2233,Patrol Sergeant,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+2234,Patrol Sergeant,2019 Home Made Explosives Recognition,Police Training,1
+2235,Patrol Sergeant,2019 ALICE Methodology,Police Training,1
+2236,Patrol Sergeant,2019 Community Policing / Problem Solving,Police Training,1
+2237,Patrol Sergeant,2019 Below 100,Police Training,1
+2238,Patrol Sergeant,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+2239,Patrol Sergeant,2019 Employee Asssistance Program,Police Training,1
+2240,Patrol Sergeant,2019 52-1 District Court Update ,Police Training,2
+2241,Patrol Sergeant,2019 LEIN / MICR / Booking Update,Police Training,2
+2242,Patrol Sergeant,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+2243,Patrol Sergeant,Ethical Decision Making and Intervention,Police Training,1
+2244,Patrol Sergeant,2019 Accreditation Review,Police Training,1
+2245,Patrol Sergeant,Michigan State Police Security Awareness Training Level 1,Police Training,1
+2246,Patrol Sergeant,Michigan State Police Security Awareness Training Level 2,Police Training,1
+2247,Patrol Sergeant,Michigan State Police Security Awareness Training Level 3,Police Training,1
+2248,Patrol Sergeant,Veterans Affairs S.A.V.E Training,Police Training,1
+2249,Patrol Sergeant,Office of Highway Safety Planning OWI Investigations,Police Training,1
+2250,Patrol Sergeant,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+2251,Patrol Sergeant,TSC Watchlisting Training,Police Training,1
+2252,Patrol Sergeant,Street Survival II,Police Training,16
+2253,Patrol Sergeant,19-905 OWI Investigations,Police Training,1
+2254,Lead Mechanic,2019 Bloodborne Pathogens ,Police Training,1
+2255,Lead Mechanic,Hazardous Materials 2019,Police Training,1
+2256,Lead Mechanic,Ethical Decision Making and Intervention,Police Training,1
+2257,Lead Mechanic,Michigan State Police Security Awareness Training Level 1,Police Training,1
+2258,Lead Mechanic,Michigan State Police Security Awareness Training Level 2,Police Training,1
+2259,Lead Mechanic,Michigan State Police Security Awareness Training Level 3,Police Training,1
+2260,Patrol Officer,Outdoor Rifle Training,Police Training,9
+2261,Patrol Officer,Rifle Training and Qualification,Police Training,8
+2262,Patrol Officer,Advanced Roadside Impaired Driving Enforcement (ARIDE),Police Training,16
+2263,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2264,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2265,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2266,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2267,Patrol Officer,Emergency Vehicle Operations (EVO),Police Training,8
+2268,Patrol Officer,18-909 Avon C50 Gas Mask Training,Police Training,1
+2269,Patrol Officer,2019 Bloodborne Pathogens ,Police Training,1
+2270,Patrol Officer,Hazardous Materials 2019,Police Training,1
+2271,Patrol Officer,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+2272,Patrol Officer,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+2273,Patrol Officer,2019 Response to Resistance Scenarios,Police Training,4
+2274,Patrol Officer,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+2275,Patrol Officer,2019 Home Made Explosives Recognition,Police Training,1
+2276,Patrol Officer,2019 ALICE Methodology,Police Training,1
+2277,Patrol Officer,2019 Community Policing / Problem Solving,Police Training,1
+2278,Patrol Officer,2019 Below 100,Police Training,1
+2279,Patrol Officer,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+2280,Patrol Officer,2019 Employee Asssistance Program,Police Training,1
+2281,Patrol Officer,2019 52-1 District Court Update ,Police Training,2
+2282,Patrol Officer,2019 LEIN / MICR / Booking Update,Police Training,2
+2283,Patrol Officer,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+2284,Patrol Officer,Ethical Decision Making and Intervention,Police Training,1
+2285,Patrol Officer,2019 Accreditation Review,Police Training,1
+2286,Patrol Officer,Michigan State Police Security Awareness Training Level 1,Police Training,1
+2287,Patrol Officer,Michigan State Police Security Awareness Training Level 2,Police Training,1
+2288,Patrol Officer,Michigan State Police Security Awareness Training Level 3,Police Training,1
+2289,Patrol Officer,EVO Police Vehicle Operation - Instructor,Police Training,40
+2290,Patrol Officer,Veterans Affairs S.A.V.E Training,Police Training,1
+2291,Patrol Officer,Investigation of Non-stranger Sexual Assault,Police Training,8
+2292,Patrol Officer,Office of Highway Safety Planning OWI Investigations,Police Training,1
+2293,Patrol Officer,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+2294,Patrol Officer,TSC Watchlisting Training,Police Training,1
+2295,Patrol Officer,19-905 OWI Investigations,Police Training,1
+2296,Records Clerk,The Michigan Freedom of Information Act (FOIA),Police Training,8
+2297,Records Clerk,2019 Bloodborne Pathogens ,Police Training,1
+2298,Records Clerk,Hazardous Materials 2019,Police Training,1
+2299,Records Clerk,Ethical Decision Making and Intervention,Police Training,1
+2300,Records Clerk,Michigan State Police Security Awareness Training Level 1,Police Training,1
+2301,Records Clerk,Michigan State Police Security Awareness Training Level 2,Police Training,1
+2302,Records Clerk,Michigan State Police Security Awareness Training Level 3,Police Training,1
+2303,Patrol Officer,Outdoor Rifle Training,Police Training,9
+2304,Patrol Officer,Rifle Training and Qualification,Police Training,8
+2305,Patrol Officer,Michigan Traffic Safety Summit,Police Training,24
+2306,Patrol Officer,Advanced Roadside Impaired Driving Enforcement (ARIDE),Police Training,16
+2307,Patrol Officer,Commercial Motor Vehicle (CMV) Officer Update,Police Training,5
+2308,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2309,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2310,Patrol Officer,2019 Bloodborne Pathogens ,Police Training,1
+2311,Patrol Officer,Hazardous Materials 2019,Police Training,1
+2312,Patrol Officer,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+2313,Patrol Officer,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+2314,Patrol Officer,2019 Response to Resistance Scenarios,Police Training,4
+2315,Patrol Officer,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+2316,Patrol Officer,2019 Home Made Explosives Recognition,Police Training,1
+2317,Patrol Officer,2019 ALICE Methodology,Police Training,1
+2318,Patrol Officer,2019 Community Policing / Problem Solving,Police Training,1
+2319,Patrol Officer,2019 Below 100,Police Training,1
+2320,Patrol Officer,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+2321,Patrol Officer,2019 Employee Asssistance Program,Police Training,1
+2322,Patrol Officer,2019 52-1 District Court Update ,Police Training,2
+2323,Patrol Officer,2019 LEIN / MICR / Booking Update,Police Training,2
+2324,Patrol Officer,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+2325,Patrol Officer,2019 Accreditation Training,Community Policing,1
+2326,Patrol Officer,Ethical Decision Making and Intervention,Police Training,1
+2327,Patrol Officer,2019 Accreditation Review,Police Training,1
+2328,Patrol Officer,Michigan State Police Security Awareness Training Level 1,Police Training,1
+2329,Patrol Officer,Michigan State Police Security Awareness Training Level 2,Police Training,1
+2330,Patrol Officer,Michigan State Police Security Awareness Training Level 3,Police Training,1
+2331,Patrol Officer,Veterans Affairs S.A.V.E Training,Police Training,1
+2332,Patrol Officer,Office of Highway Safety Planning OWI Investigations,Police Training,1
+2333,Patrol Officer,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+2334,Patrol Officer,TSC Watchlisting Training,Police Training,1
+2335,Patrol Officer,19-905 OWI Investigations,Police Training,1
+2336,Patrol Officer,Taser Training,Police Training,8
+2337,Patrol Officer,Rifle Training and Qualification,Police Training,8
+2338,Patrol Officer,Rifle Training and Qualification,Police Training,8
+2339,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2340,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2341,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2342,Patrol Officer,Emergency Vehicle Operations (EVO),Police Training,8
+2343,Patrol Officer,2019 Bloodborne Pathogens ,Police Training,1
+2344,Patrol Officer,Hazardous Materials 2019,Police Training,1
+2345,Patrol Officer,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+2346,Patrol Officer,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+2347,Patrol Officer,2019 Response to Resistance Scenarios,Police Training,4
+2348,Patrol Officer,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+2349,Patrol Officer,2019 Home Made Explosives Recognition,Police Training,1
+2350,Patrol Officer,2019 ALICE Methodology,Police Training,1
+2351,Patrol Officer,2019 Community Policing / Problem Solving,Police Training,1
+2352,Patrol Officer,2019 Below 100,Police Training,1
+2353,Patrol Officer,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+2354,Patrol Officer,2019 Employee Asssistance Program,Police Training,1
+2355,Patrol Officer,2019 52-1 District Court Update ,Police Training,2
+2356,Patrol Officer,2019 LEIN / MICR / Booking Update,Police Training,2
+2357,Patrol Officer,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+2358,Patrol Officer,2019 Accreditation Training,Community Policing,1
+2359,Patrol Officer,Ethical Decision Making and Intervention,Police Training,1
+2360,Patrol Officer,2019 Accreditation Review,Police Training,1
+2361,Patrol Officer,Michigan State Police Security Awareness Training Level 1,Police Training,1
+2362,Patrol Officer,Michigan State Police Security Awareness Training Level 2,Police Training,1
+2363,Patrol Officer,Michigan State Police Security Awareness Training Level 3,Police Training,1
+2364,Patrol Officer,Veterans Affairs S.A.V.E Training,Police Training,1
+2365,Patrol Officer,Office of Highway Safety Planning OWI Investigations,Police Training,1
+2366,Patrol Officer,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+2367,Patrol Officer,TSC Watchlisting Training,Police Training,1
+2368,Patrol Officer,19-905 OWI Investigations,Police Training,1
+2369,Patrol Officer,Rifle Training and Qualification,Police Training,8
+2370,Patrol Officer,Rifle Training and Qualification,Police Training,8
+2371,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2372,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2373,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2374,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2375,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2376,Patrol Officer,Emergency Vehicle Operations (EVO),Police Training,8
+2377,Patrol Officer,2019 Bloodborne Pathogens ,Police Training,1
+2378,Patrol Officer,Hazardous Materials 2019,Police Training,1
+2379,Patrol Officer,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+2380,Patrol Officer,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+2381,Patrol Officer,2019 Response to Resistance Scenarios,Police Training,4
+2382,Patrol Officer,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+2383,Patrol Officer,2019 Home Made Explosives Recognition,Police Training,1
+2384,Patrol Officer,2019 ALICE Methodology,Police Training,1
+2385,Patrol Officer,2019 Community Policing / Problem Solving,Police Training,1
+2386,Patrol Officer,2019 Below 100,Police Training,1
+2387,Patrol Officer,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+2388,Patrol Officer,2019 Employee Asssistance Program,Police Training,1
+2389,Patrol Officer,2019 52-1 District Court Update ,Police Training,2
+2390,Patrol Officer,2019 LEIN / MICR / Booking Update,Police Training,2
+2391,Patrol Officer,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+2392,Patrol Officer,Ethical Decision Making and Intervention,Police Training,1
+2393,Patrol Officer,2019 Accreditation Review,Police Training,1
+2394,Patrol Officer,Michigan State Police Security Awareness Training Level 1,Police Training,1
+2395,Patrol Officer,Michigan State Police Security Awareness Training Level 2,Police Training,1
+2396,Patrol Officer,Michigan State Police Security Awareness Training Level 3,Police Training,1
+2397,Patrol Officer,EVO Police Vehicle Operation - Instructor,Police Training,40
+2398,Patrol Officer,Veterans Affairs S.A.V.E Training,Police Training,1
+2399,Patrol Officer,Office of Highway Safety Planning OWI Investigations,Police Training,1
+2400,Patrol Officer,Oral Fluid Roadside Analysis Pilot Program,Police Training,4
+2401,Patrol Officer,TSC Watchlisting Training,Police Training,1
+2402,Patrol Officer,Drug Recognition Expert School,Police Training,40
+2403,Patrol Officer,19-905 OWI Investigations,Police Training,1
+2404,Patrol Officer,Rifle Training and Qualification,Police Training,8
+2405,Patrol Officer,Rifle Training and Qualification,Police Training,8
+2406,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2407,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2408,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2409,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2410,Patrol Officer,Firearms Training/Qualification,Police Training,1
+2411,Patrol Officer,Decision Making - Use of Force - Implicit Bias,Police Training,8
+2412,Patrol Officer,2019 Bloodborne Pathogens ,Police Training,1
+2413,Patrol Officer,Hazardous Materials 2019,Police Training,1
+2414,Patrol Officer,2019 Crisis Intervention / Crisis Negotiation,Police Training,2
+2415,Patrol Officer,2019 Taser / PPCT / Freeze +P / ASP,Police Training,4
+2416,Patrol Officer,2019 Response to Resistance Scenarios,Police Training,4
+2417,Patrol Officer,2019 EVO / Pursuit / Decision Making / Directive Review,Police Training,1
+2418,Patrol Officer,2019 Home Made Explosives Recognition,Police Training,1
+2419,Patrol Officer,2019 ALICE Methodology,Police Training,1
+2420,Patrol Officer,2019 Community Policing / Problem Solving,Police Training,1
+2421,Patrol Officer,2019 Below 100,Police Training,1
+2422,Patrol Officer,2019 Legal Update / Domestic Violence / Stalking,Police Training,6
+2423,Patrol Officer,2019 Employee Asssistance Program,Police Training,1
+2424,Patrol Officer,2019 52-1 District Court Update ,Police Training,2
+2425,Patrol Officer,2019 LEIN / MICR / Booking Update,Police Training,2
+2426,Patrol Officer,2019 Resiliance and Self Care for First Repsonders,Police Training,2
+2427,Patrol Officer,Ethical Decision Making and Intervention,Police Training,1
+2428,Patrol Officer,2019 Accreditation Review,Police Training,1
+2429,Patrol Officer,Michigan State Police Security Awareness Training Level 1,Police Training,1
+2430,Patrol Officer,Michigan State Police Security Awareness Training Level 2,Police Training,1
+2431,Patrol Officer,Michigan State Police Security Awareness Training Level 3,Police Training,1
+2432,Patrol Officer,Veterans Affairs S.A.V.E Training,Police Training,1
+2433,Patrol Officer,MILO Simulator Training,Police Training,24
+2434,Patrol Officer,Office of Highway Safety Planning OWI Investigations,Police Training,1
+2435,Patrol Officer,MCOLES Active Duty Firearm Standard 2019,Police Training,1
+2436,Patrol Officer,TSC Watchlisting Training,Police Training,1
+2437,Patrol Officer,Charatceristics of Armend Offenders,Police Training,16
+2438,Patrol Officer,19-905 OWI Investigations,Police Training,1
+2439,Cadet,Sexual Harassment Training,HR Training,
+2440,Cadet,Diversity Training (HR),HR Training,0
+2441,Cadet,Customer Service Guarantee Training,HR Training,
