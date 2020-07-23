@@ -1,0 +1,22 @@
+﻿index,id,substation,street,city,state,zip,lat,lng,count
+1,1,Substation 1,8118 Sancus Blvd.,Westerville,OH,43081,40.131595,-82.990007,7
+2,2,Substation 2,2077 Parkwood Ave.,Columbus,OH,43219,40.010686,-82.957295,10
+3,3,Substation 3,5400 Olentangy River Rd.,Columbus,OH,43235,40.070288,-83.037009,4
+4,4,Substation 4,248 E. 11th Ave. ,Columbus,OH,43201,39.994589,-83.000315,15
+5,5,Substation 5,1371 Cleveland Ave.,Columbus,OH,43211,39.99329,-82.982506,16
+6,6,Substation 6,5030 Ulry Rd.,Westerville,OH,43081,40.080295,-82.866678,10
+7,7,Substation 7,1475 Granville St.,Columbus,OH,43203,39.972425,-82.96272,12
+8,8,Substation 8,333 W. Town St. ,Columbus,OH,43215,39.957474,-83.009144,13
+9,9,Substation 9,3022 Winchester Pk.,Columbus,OH,43232,39.912801,-82.907826,15
+10,10,Substation 10,4215 Clime Rd. ,Columbus,OH,43228,39.923251,-83.1088,8
+11,11,Substation 11,950 E. Main St. ,Columbus,OH,43205,39.958145,-82.974211,24
+12,12,Substation 12,950 E. Main St.,Columbus,OH,43205,39.958145,-82.974211,13
+13,13,Substation 13,544 Woodrow Ave.,Columbus,OH,43207,39.927632,-82.981135,14
+14,14,Substation 14,2500 Park Cresent Dr.,Columbus,OH,43232,39.928809,-82.842382,4
+15,15,Substation 15,1000 N. Hague Ave.,Columbus,OH,43204,39.978214,-83.078242,7
+16,16,Substation 16,333 W. Town St.,Columbus,OH,43215,39.957474,-83.009144,25
+17,17,Substation 17,5400 Olentangy River Rd.,Columbus,OH,43235,40.070288,-83.037009,5
+18,18,Substation 18,1120 Morse Rd.,Columbus,OH,43229,40.061857,-82.988778,6
+19,19,Substation 19,2070 Sullivant Ave.,Columbus,OH,43223,39.947345,-83.054185,14
+20,20,Substation 20,2500 Park Cresent Dr.,Columbus,OH,43232,39.928809,-82.842382,13
+21,21,Unknown,90 W Broad St,Columbus,OH,43215,39.962423,-83.003324,12

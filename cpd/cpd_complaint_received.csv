@@ -1,0 +1,8 @@
+﻿index,id,complaint_received,count
+1,1,E-mail / Internet,19
+2,2,In Person,42
+3,3,Internal Memo,2
+4,4,Other,2
+5,5,Telephone,172
+6,6,U.S. Mail,7
+7,7,Unknown,3

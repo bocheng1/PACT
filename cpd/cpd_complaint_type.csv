@@ -1,0 +1,11 @@
+﻿index,id,year,nature_of_complaint,count
+1,1,2017,Actions Taken / Not Taken,159
+2,2,2017,Investigative Actions,83
+3,3,2017,Rude / Discourteous Language / Actions,81
+4,4,2017,Force,75
+5,5,2017,Search / Seizure,53
+6,6,2018,Actions Taken / Not Taken,100
+7,7,2018,Investigative Actions,85
+8,8,2018,Rude / Discourteous Language / Actions,68
+9,9,2018,Force,48
+10,10,2018,Search / Seizure,52

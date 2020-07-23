@@ -1,0 +1,6 @@
+﻿index,id,duty_type,count
+1,1,Off Duty,5
+2,2,On Duty,325
+3,3,Secondary Employment ,1
+4,4,Special Duty ,38
+5,5,Unknown ,14

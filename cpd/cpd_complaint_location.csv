@@ -1,0 +1,15 @@
+﻿index,id,incident_location,count
+1,1,Bar,12
+2,2,Business Building or Property,27
+3,3,Court ,2
+4,4,Hospital ,2
+5,5,Jail/Correction Facility ,1
+6,6,Other ,3
+7,7,Police Headquarters ,8
+7,7,Police Substation ,5
+7,7,Private Residence or Property ,88
+7,7,Property Room ,1
+7,7,Public Building or Property,3
+7,7,Radio Room ,7
+7,7,Street / Alley ,85
+7,7,Unknown ,3

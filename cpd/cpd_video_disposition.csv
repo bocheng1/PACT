@@ -1,0 +1,13 @@
+﻿index,id,evidence,disposition,count
+1,1,Any Type of Video,Unfounded,134
+2,2,Any Type of Video,Exonerated,52
+3,3,Any Type of Video,Withdrawn,43
+4,4,Any Type of Video,Cancelled,0
+5,5,Any Type of Video,Sustained,47
+6,6,Any Type of Video,Not Sustained,18
+7,7,Without Any Type of Video,Unfounded,76
+8,8,Without Any Type of Video,Exonerated,27
+9,9,Without Any Type of Video,Withdrawn,13
+10,10,Without Any Type of Video,Cancelled,0
+11,11,Without Any Type of Video,Sustained,21
+12,12,Without Any Type of Video,Not Sustained,22
