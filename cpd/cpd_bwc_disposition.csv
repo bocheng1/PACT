@@ -1,0 +1,13 @@
+﻿index,id,evidence,disposition,count
+1,1,BWC Only,Unfounded,58
+2,2,BWC Only,Exonerated,29
+3,3,BWC Only,Withdrawn,28
+4,4,BWC Only,Cancelled,11
+5,5,BWC Only,Sustained,28
+6,6,BWC Only,Not Sustained,6
+7,7,BWC & Other Video,Unfounded,65
+8,8,BWC & Other Video,Exonerated,16
+9,9,BWC & Other Video,Withdrawn,11
+10,10,BWC & Other Video,Cancelled,0
+11,11,BWC & Other Video,Sustained,11
+12,12,BWC & Other Video,Not Sustained,7
