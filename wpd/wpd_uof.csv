@@ -1,0 +1,24 @@
+﻿id,officer_actions,number
+1,Arm Bar ,3
+2,Drive Stun ,1
+3,Firearm Display ,49
+4,guided to ground ,6
+5,Handcuffed Only ,2
+6,Impact Weapon ,1
+7,jaw control ,2
+8,knee strike,2
+9,Leg Strike ,2
+10,MUSCLE ,9
+11,Muscling ,59
+12,Muscling / Taken to Ground ,14
+13,Not Indicated ,4
+14,Other Type Of Action ,1
+15,Pressure Point ,7
+16,Pushed/Shoved ,3
+17,Restraint Chair Used,10
+18,Strikes ,1
+19,Taken to the ground,30
+20,Taser Deployment ,11
+21,Taser Display ,17
+22,Verbal Commands ,125
+23,Wrist Lock ,2
